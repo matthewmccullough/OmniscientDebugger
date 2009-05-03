@@ -1,0 +1,2853 @@
+Signature-Version: 1.0
+Created-By: 1.5.0_06 (Apple Computer, Inc.)
+SHA1-Digest-Manifest-Main-Attributes: gO508NqP2fAwtzm1k3n+dyym6jE=
+SHA1-Digest-Manifest: FDUm1hMAAaAklfDe5itB1UabSFU=
+
+Name: org/apache/bcel/generic/DUP2_X2.class
+SHA1-Digest: 11L6B0bOHdKfhe4xvEqTlUjESQ8=
+
+Name: com/lambda/Debugger/MiniBuffer$5.class
+SHA1-Digest: lB+uGnoAu5oodqWxqfnBLYcVcX4=
+
+Name: edu/insa/LSD/CounterValue.class
+SHA1-Digest: 1ETliLa3WgHOaFcoRmPtT6raSMM=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: M/wpEZZlZV1fqQBu0QpWpyWXrc4=
+
+Name: edu/insa/LSD/LSDException.class
+SHA1-Digest: GOAsVuXTiYR7mHV+S82r1VzQ+5c=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame.class
+SHA1-Digest: 4r79DGu1ge6EoI1qdLtlH2DgI9Y=
+
+Name: com/lambda/Debugger/UnknownValue.java
+SHA1-Digest: 6AbIxsrYkj1kEt7M+R0FR+MftKQ=
+
+Name: org/apache/bcel/generic/ISHR.class
+SHA1-Digest: CM2tuNISBlYHXgobBx9/i+7H3/M=
+
+Name: com/lambda/Debugger/ClassInformation$1.class
+SHA1-Digest: XvnRPaqEAhVOj4/dEd3+xDOtuOA=
+
+Name: org/apache/bcel/generic/DUP.class
+SHA1-Digest: sISWhaUbopokp0YH3M9rAndECWo=
+
+Name: com/lambda/Debugger/HashMapEq$3.class
+SHA1-Digest: jVbZwZZFl8LHIG6k7hvE5Bvry/w=
+
+Name: com/lambda/Debugger/TraceLine10.class
+SHA1-Digest: phGH/hVtqkwsE2QhYAmgVt1b7Dg=
+
+Name: com/lambda/Debugger/Locals6.class
+SHA1-Digest: zg2g7sdLkNzwFWO476IhBJX/G5o=
+
+Name: com/lambda/Experiment/WordEntry.class
+SHA1-Digest: wvLyOahHZPePyFbOOEHlhbmTftI=
+
+Name: org/apache/bcel/generic/FieldObserver.class
+SHA1-Digest: DCOBrl5Ar8QOJw6bxG6umhuenl8=
+
+Name: org/apache/bcel/generic/IFGE.class
+SHA1-Digest: JxZ5NmckYH0QI9SoP8jGb74ezC4=
+
+Name: org/apache/bcel/generic/FieldInstruction.class
+SHA1-Digest: 9+4YKnmLSorSwOnbGm5qMaWcvgM=
+
+Name: org/apache/bcel/generic/DUP_X1.class
+SHA1-Digest: CaKPNSYa3QPWY110/r7QIvNRKGU=
+
+Name: org/apache/bcel/generic/ConstantPoolGen$Index.class
+SHA1-Digest: OFNKNOBQxxJBTc8nFGUEVfYqbE0=
+
+Name: scripts/debugger.jnlp
+SHA1-Digest: nXJUH9B4xNBBIpcPlwv6WvoNAf8=
+
+Name: docs/index.html
+SHA1-Digest: jHoDivE9U2ccAElSq0jLp1OxbxQ=
+
+Name: org/apache/bcel/util/CodeHTML.class
+SHA1-Digest: ffwFr4wA+nvD4y6K5lbSfZRv3ts=
+
+Name: com/lambda/Experiment/PrefixEntry.class
+SHA1-Digest: zYuzVU1XG1SdbDWfg7qcppIRzpA=
+
+Name: com/lambda/Debugger/WordEntry.class
+SHA1-Digest: QzDQ451kpbujxHnHYt+hg8VGS/A=
+
+Name: com/lambda/Debugger/Subtype.class
+SHA1-Digest: xZrttmMRDLdY3HZopIkS9I/HiRg=
+
+Name: com/lambda/Debugger/TraceLine6.java
+SHA1-Digest: HcSfS66jMRgss+pkOiuiQk6odHM=
+
+Name: com/lambda/tests/TestMyVector.java
+SHA1-Digest: e8JL5g+rFuB8yXCIqMVWFXJ5yYs=
+
+Name: org/apache/bcel/generic/TABLESWITCH.class
+SHA1-Digest: +DJAu+CiMilvPAHJp5OSQ3gXA4U=
+
+Name: com/lambda/tests/ExcessvelyBigMethod.class
+SHA1-Digest: MO/YDoHI5h2udsKXNAf7x9iRQ2U=
+
+Name: com/lambda/Debugger/SourceFileFinder.java
+SHA1-Digest: 3LON2EsHHL6js97gNysK1doHByg=
+
+Name: org/apache/bcel/generic/IFNE.class
+SHA1-Digest: MZ7Xye1kclFWdv8LM5X1VAyUJiQ=
+
+Name: org/apache/bcel/generic/JSR_W.class
+SHA1-Digest: LgyPcJGD3JEhF/7wREVXWcRdgPc=
+
+Name: org/apache/bcel/verifier/PassVerifier.class
+SHA1-Digest: 1rUcrXTFG55yEQdGHbjzbQbkgL0=
+
+Name: org/apache/bcel/generic/ANEWARRAY.class
+SHA1-Digest: RSd9mrU30lOiPmvp1E8M4F/Qjk4=
+
+Name: org/apache/bcel/verifier/statics/Pass3aVerifier$InstOperandConst
+ raintVisitor.class
+SHA1-Digest: fXWX04thEYCVe7lxM4/qe/xzZgg=
+
+Name: com/lambda/Debugger/OnlyClass.class
+SHA1-Digest: Xde32o0D12gX6gloijvEEwyU7OA=
+
+Name: org/apache/bcel/classfile/EmptyVisitor.class
+SHA1-Digest: /C/q2+ftYljYiAbkc+pV4c5T4PU=
+
+Name: org/apache/bcel/generic/IMPDEP1.class
+SHA1-Digest: h/xgxo3l7IO6CwWlYLeLvlKo2Ng=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$4.class
+SHA1-Digest: 5OnuH3rota8mNU6BDAnWX6Ioows=
+
+Name: com/lambda/Debugger/StackList.java
+SHA1-Digest: uE8OrFSiWSEuN5xy7oArtxC2Cd4=
+
+Name: org/apache/bcel/verifier/structurals/ControlFlowGraph.class
+SHA1-Digest: /STGYdH7xQwuTLD3YqcjTmsopBg=
+
+Name: edu/insa/LSD/CounterValue.java
+SHA1-Digest: OSEmGLpf02X9R8AYg8JK5be1IxQ=
+
+Name: org/apache/bcel/verifier/exc/CodeConstraintException.class
+SHA1-Digest: 4SwOtXKv1xPMe5g66NxlYrOJFSk=
+
+Name: .debuggerDefaults
+SHA1-Digest: c8NwBzEuB1pzsuxgKfc7d4Nk7os=
+
+Name: org/apache/bcel/generic/ReturnInstruction.class
+SHA1-Digest: ilbesaI6raoYz4mYLZ2MwF4fSbg=
+
+Name: com/lambda/Debugger/TraceActionListener.java
+SHA1-Digest: 2rhlCs9F9q3GJ85DiQ9GTn1QrwI=
+
+Name: org/apache/bcel/generic/StoreInstruction.class
+SHA1-Digest: JZQ3fb2OuESXPOYcbmSpvGtXr2A=
+
+Name: com/lambda/Debugger/SourceFileFinder.class
+SHA1-Digest: SX5CqkzzJ6gEmt14jpuls7RS3qQ=
+
+Name: org/apache/bcel/generic/ReturnaddressType.class
+SHA1-Digest: NtVHnysCRhocOPSiAbI6JRZotXc=
+
+Name: com/lambda/Debugger/ThisActionListener.class
+SHA1-Digest: kP6mG/qzcl5JNcLZF/1mEvm130Q=
+
+Name: scripts/buildSource
+SHA1-Digest: AfjkofYeVKcnrDtmJZKJZgM8mP0=
+
+Name: com/lambda/Debugger/Rewrite.java
+SHA1-Digest: uJzhpwfbOmqOK2alIaycOoLWQ0g=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$1.class
+SHA1-Digest: CVWc8iu57HYYYNTePh+iB6z+mNQ=
+
+Name: com/lambda/Debugger/Locals7.java
+SHA1-Digest: +64RDRgeREQ5659DMERr14lKpts=
+
+Name: com/lambda/Debugger/VectorD.class
+SHA1-Digest: AEX7wEJU4SVYj6S5GgPO+iduxY4=
+
+Name: docs/Select.jpg
+SHA1-Digest: hmKh+NmgxM+7phlTtOYeRkw9Gas=
+
+Name: com/lambda/Debugger/EventInterface.class
+SHA1-Digest: Y4UlHQ4gJRNkGGjSRJEkfOsc7K4=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$2.class
+SHA1-Digest: qzjF6J1xLCAJWKPt3qqn9OlVvng=
+
+Name: org/apache/bcel/classfile/LocalVariable.class
+SHA1-Digest: d7ewGnqzZE9OlAUWCczeV5pVnfE=
+
+Name: org/apache/bcel/classfile/Utility$JavaReader.class
+SHA1-Digest: 5Z+hWuXVsw+ZZWpRHlY1v+gO2RA=
+
+Name: org/apache/bcel/generic/DMUL.class
+SHA1-Digest: dxFmQfYU9TTt3eOLIAtt8RFPYek=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableSortedMap.class
+SHA1-Digest: ivzZlx2jNiu2HqzDeipRSEJNfNE=
+
+Name: com/lambda/tests/PrivateInnerClassTest.java
+SHA1-Digest: Y+KPW6HbVYhMGQphjfjzboIfHy8=
+
+Name: com/lambda/Debugger/ShadowChar.class
+SHA1-Digest: XuMJBaZHcqFfPfbSkZHNlBV6+/Q=
+
+Name: org/apache/bcel/classfile/ConstantFloat.class
+SHA1-Digest: YjALfNhLzdZ41yw3MP/rm7Rw3bs=
+
+Name: com/lambda/tests/InnerClassTest.java
+SHA1-Digest: xJI7R+0Aoa7sPZ27FJ/WlyyeoJw=
+
+Name: com/lambda/Debugger/DebuggerExit.class
+SHA1-Digest: pZCUgLHnoOcBKfXFIr5OwSyuV/0=
+
+Name: com/lambda/Debugger/DebugMenuActionListener.class
+SHA1-Digest: Kh53kLEdGVM6in8LuW2VNEcCaeY=
+
+Name: com/lambda/Debugger/MiniBuffer.class
+SHA1-Digest: 1BZKSMmAfeb9PQawLb1oyqkd2E8=
+
+Name: com/lambda/Debugger/DisplayVariables$DVThing.class
+SHA1-Digest: 1fbmyHzW8r87md4UNZZRtzjS2qc=
+
+Name: org/apache/bcel/generic/ARETURN.class
+SHA1-Digest: h/B8fvtvAt91z7HFbfIOIlxDh6s=
+
+Name: com/lambda/Debugger/DebuggerCommand.class
+SHA1-Digest: ZxyoqyiwKMRcvfRQZkpBNZRi1L0=
+
+Name: com/lambda/Debugger/BackTrace.class
+SHA1-Digest: o7GqKfOjX0xd51pLtsp2IRpu2Zc=
+
+Name: org/apache/bcel/util/ConstantHTML.class
+SHA1-Digest: pd2kZbi9xX+kC3sL18R9bN2+O54=
+
+Name: com/lambda/Debugger/ShadowNull.class
+SHA1-Digest: HXfqvObubi1EsNOYi1QjT32iAv8=
+
+Name: edu/insa/LSD/CallEvent.class
+SHA1-Digest: d8ZiNVnid4c0591nc86ZAGXxtk4=
+
+Name: com/lambda/tests/PackageSubTest.java
+SHA1-Digest: 6Er+uxCJed10Tt9G44pvlxUCJCU=
+
+Name: org/apache/bcel/generic/ConstantPushInstruction.class
+SHA1-Digest: k5piPwOvEhC634WPy3R46sogBMs=
+
+Name: org/apache/bcel/generic/SWAP.class
+SHA1-Digest: v8nGOSkipZc4t4hsi2ZnDE/rz0U=
+
+Name: org/apache/bcel/verifier/structurals/UninitializedObjectType.cla
+ ss
+SHA1-Digest: 8Dwf72CGcWyaz2mRaB5xDgnrWWU=
+
+Name: edu/insa/LSD/EnterEvent.java
+SHA1-Digest: ioajhP9ZHHcFEffHYhTTlzXccNc=
+
+Name: com/lambda/Debugger/Locals10.class
+SHA1-Digest: EUbGPEGANupwK1SqxMCAvFk+H8g=
+
+Name: org/apache/bcel/verifier/statics/Pass2Verifier.class
+SHA1-Digest: wyijdJF9vEdk8B6dEq5q1kCMyok=
+
+Name: org/apache/bcel/generic/LALOAD.class
+SHA1-Digest: 7Vd5IVCMcUmfz2TNl+yBeSPAPU4=
+
+Name: org/apache/bcel/classfile/ConstantInterfaceMethodref.class
+SHA1-Digest: Q/GrEQfEzhUEJb7R5mssaZfQcAg=
+
+Name: com/lambda/tests/subtests/PackageTest.java
+SHA1-Digest: pInFkLtXsH9+0QfLjNAN/WVxbl4=
+
+Name: com/lambda/Debugger/ObjectsMenuActionListener.java
+SHA1-Digest: ukmDu5OJO/7ruq7B8HAU26zrtSc=
+
+Name: com/lambda/Debugger/.debuggerDefaults
+SHA1-Digest: uMjOCqAx1H3xlJ5c7Vx5rejwmC0=
+
+Name: com/lambda/Debugger/StopButton.java
+SHA1-Digest: LsFqC3B/PV3PrvNa0n7ugrGoK8w=
+
+Name: scripts/aliasesBig
+SHA1-Digest: qFaQ/wNDZmQorBco6FXet7b4kZE=
+
+Name: com/lambda/tests/GenericsTest.java
+SHA1-Digest: p8cLYOsy05sA6fS5iHosTMtWBBo=
+
+Name: com/lambda/Debugger/ShadowPrintStream.java
+SHA1-Digest: yK66JWY/VuT+7/L1a1/J1TwJKGc=
+
+Name: org/apache/bcel/generic/LCMP.class
+SHA1-Digest: 9zJPYP0Nqeb0HJl8SZanVoAPvEk=
+
+Name: org/apache/bcel/generic/DADD.class
+SHA1-Digest: TOCpyC37Kp9rkcN0wSaRme6oMN4=
+
+Name: org/apache/bcel/generic/LOR.class
+SHA1-Digest: ucWcrFBhe26LWBmFNuYlnhwI1cE=
+
+Name: com/lambda/Debugger/ShadowPrimitive.java
+SHA1-Digest: olorjtEKoxPgdIyTdVqTX+2Sy0I=
+
+Name: com/lambda/Debugger/CodeListener.class
+SHA1-Digest: 60fIix9Ha+04Rx44GJchJ0/WQGg=
+
+Name: org/apache/bcel/classfile/ExceptionTable.class
+SHA1-Digest: o3UCNNw0f2at5XrfZ2aPqY9nWvI=
+
+Name: org/apache/bcel/generic/LXOR.class
+SHA1-Digest: tK2q6YV+xdQ5Gfh8rvM1DNarf1I=
+
+Name: org/apache/bcel/util/ClassPath$Dir$1.class
+SHA1-Digest: IkSpFtlN/sA8sN+hkz06vtHHoS4=
+
+Name: Microsoft/debugp.bat
+SHA1-Digest: aTVqbNBfn3bSfi4e1UB38D29uO0=
+
+Name: org/apache/bcel/generic/DREM.class
+SHA1-Digest: B3MhPXnWytRobd7bK2ADr3cKHnE=
+
+Name: com/lambda/tests/GetPackageTest.class
+SHA1-Digest: 5qd3sOqTo2mfLfaIQTD+hEkP3ZQ=
+
+Name: org/apache/bcel/generic/ACONST_NULL.class
+SHA1-Digest: owPyGYeI6ZPSRVCHCV8ALzJZQiU=
+
+Name: com/lambda/Debugger/TraceLine8.class
+SHA1-Digest: YatakBfc92X+J6io92VTgD+CNrQ=
+
+Name: com/lambda/Debugger/MyVector.class
+SHA1-Digest: 10yFYy+CapS/1W4XCTjYSPe5hyo=
+
+Name: com/lambda/Debugger/RewriteManuscript.class
+SHA1-Digest: P7cd3ypJ5l/ZnERRbDX3M6zbPrU=
+
+Name: org/apache/bcel/generic/BASTORE.class
+SHA1-Digest: ql3CXsDnN0IS5iemPvy5MU7wNm8=
+
+Name: org/apache/bcel/verifier/structurals/ExceptionHandler.class
+SHA1-Digest: ehs+fOktVrwh3vg39XiRu+bJ7J4=
+
+Name: org/apache/bcel/generic/Select.class
+SHA1-Digest: NLHA05XaoTplaRSbxp/OfCYCguk=
+
+Name: org/apache/bcel/generic/DALOAD.class
+SHA1-Digest: IpGW36kRccb+ORlM9nPQZhikCQI=
+
+Name: com/lambda/Debugger/ShadowBoolean.class
+SHA1-Digest: IaW161k8oHY/iH3tURDNyv1G3rc=
+
+Name: org/apache/bcel/generic/ArrayInstruction.class
+SHA1-Digest: yMuUMDm36SFfBAWut47XPsjwRR0=
+
+Name: org/apache/bcel/verifier/structurals/Pass3bVerifier$1.class
+SHA1-Digest: jiQh8xiBG/fBW651dW206tFR9Io=
+
+Name: com/lambda/Debugger/ShadowByte.java
+SHA1-Digest: x0IDzKButN94QEA45hbrvoX/xXc=
+
+Name: com/lambda/Debugger/StackListElement.class
+SHA1-Digest: GLtYkBTQ7LLw5/ddIOtCQJhAceY=
+
+Name: org/apache/bcel/classfile/Field$1.class
+SHA1-Digest: 5Xg3hX/d1QWd2DEX1T9MoFIL/dI=
+
+Name: com/lambda/Debugger/ObjectListener.java
+SHA1-Digest: 67aKvFwHLHs8jB6dYhNvLsD6Z4E=
+
+Name: org/apache/bcel/generic/GETFIELD.class
+SHA1-Digest: L3AutMnFHDT4L3kUZvD/MixK4W8=
+
+Name: com/lambda/Debugger/DebuggerCommandHistoryList.class
+SHA1-Digest: h17VG3DeRHVXc9whpsCDunlnR0Y=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableCollection.class
+SHA1-Digest: 9lZP5zXKMbq8ejJIOYHDGR2Oy/k=
+
+Name: com/lambda/Debugger/BackTrace.java
+SHA1-Digest: MJZJ3O4Oy10vwWa+p5JSE+b/V3Q=
+
+Name: org/apache/bcel/classfile/ConstantNameAndType.class
+SHA1-Digest: eKBlEqoEdCg3oYqCOa1Ju4d1/TU=
+
+Name: com/lambda/Debugger/InstrumentorForCL.java
+SHA1-Digest: bKVaXPDzUxLvTRc83n+BJXi36us=
+
+Name: com/lambda/Debugger/RunMenuActionListener.java
+SHA1-Digest: Fmn+SbjaW1gbHl5fi29nHXppXDk=
+
+Name: com/lambda/Debugger/HistoryListSingleton.class
+SHA1-Digest: nWRVdVayNc5xe4mZAs0pVzriMx8=
+
+Name: org/apache/bcel/generic/CHECKCAST.class
+SHA1-Digest: XVeCNSJ9rQF6EK2ZGQ90nTyoN2g=
+
+Name: org/apache/bcel/generic/ISHL.class
+SHA1-Digest: ZODC5Ob/G0yCBO3SN1xn/6sClqc=
+
+Name: com/lambda/Debugger/MyCollections$EmptySet.class
+SHA1-Digest: b1w7Udj/IfvQpU1pNAuLHvpRCGc=
+
+Name: org/apache/bcel/verifier/statics/Pass3aVerifier.class
+SHA1-Digest: uP/oSS2iX+qYxOxoIE3IU3tZhTA=
+
+Name: com/lambda/Debugger/HistoryList.java
+SHA1-Digest: scYNMypoblAtAos0WJKvWhLTZUE=
+
+Name: org/apache/bcel/classfile/Node.class
+SHA1-Digest: N/7mR0JAT2CdVTJpzJqWE40zk/I=
+
+Name: edu/insa/LSD/CallEvent.java
+SHA1-Digest: 7PDCp9JAVF6UeNIBsgpY074McVM=
+
+Name: org/apache/bcel/generic/Type.class
+SHA1-Digest: evvOtaXDKU1x/HqNme1cvHhRric=
+
+Name: com/lambda/Debugger/TraceLineReusable.class
+SHA1-Digest: emjrISWOo2Vq+Fp+xGfNbiTdWFc=
+
+Name: META-INF/NOTICE.txt
+SHA1-Digest: Iyw2EJG//8QnqYDGfkVCYgLVx5w=
+
+Name: org/apache/bcel/classfile/Signature$MyByteArrayInputStream.class
+SHA1-Digest: TrNteUmMm3aCtLlBuLyHqwvFXCw=
+
+Name: org/apache/bcel/classfile/Field.class
+SHA1-Digest: idzZQPN53D0wYRZUaQrqqhbloZw=
+
+Name: com/lambda/tests/subtests/PackageTest.class
+SHA1-Digest: 8Hk+FM36RjMxxJbmhPwPdyPv0nU=
+
+Name: edu/insa/LSD/StackFrame.java
+SHA1-Digest: 6eZgOwJaUBs7kKHNHXSRVC2J8Mg=
+
+Name: org/apache/bcel/generic/FSUB.class
+SHA1-Digest: fwiNKTDdcNe5Le0VAnQdPK3nWWE=
+
+Name: com/lambda/Debugger/MyInstructionList.class
+SHA1-Digest: 6EYA9OjYy7fiR5aA2k0zrt8rrXQ=
+
+Name: com/lambda/Debugger/MyAbstractList.class
+SHA1-Digest: +vJ9x88BncR+ZFKITFYy0YytB38=
+
+Name: org/apache/bcel/util/ClassLoader.class
+SHA1-Digest: qj8yD6KRLexXK+F0R+Ot2md3qJg=
+
+Name: com/lambda/Debugger/MiniBuffer$6.class
+SHA1-Digest: h4CMn/VbzpXhbOA3lYoyJZgtHg4=
+
+Name: org/apache/bcel/util/BCELFactory.class
+SHA1-Digest: BQU7UD14tY09qHU5oSMyEYMAiIs=
+
+Name: org/apache/bcel/generic/IF_ACMPEQ.class
+SHA1-Digest: 73RFa//CCgkPZA9bHHOVTPBXWjA=
+
+Name: org/apache/bcel/verifier/exc/LinkingConstraintException.class
+SHA1-Digest: gxijX3Xyatgs2zhWsmJOuAGqEFY=
+
+Name: com/lambda/Debugger/DebugMenuActionListener.java
+SHA1-Digest: uKcu09J5qXhmeYrnJYG6/kyGJGY=
+
+Name: org/apache/bcel/generic/IDIV.class
+SHA1-Digest: Qp9M6M9UqFwdwCt6tgh3gY9FI5k=
+
+Name: com/lambda/Debugger/Locals2.class
+SHA1-Digest: z0Z82jCblu7azGZCW6InqC/j0MA=
+
+Name: org/apache/bcel/verifier/exc/InvalidMethodException.class
+SHA1-Digest: p82dZnAaeZidKXbe5VFhDbTTWzQ=
+
+Name: org/apache/bcel/generic/JSR.class
+SHA1-Digest: w8ZGxTC08MphwbBl7nzPr8aap0g=
+
+Name: com/lambda/Debugger/DebuggerException.class
+SHA1-Digest: F1MCHCe6t8LpTLZ+DiO9FiYLQA8=
+
+Name: com/lambda/Experiment/QuickSort.java
+SHA1-Digest: 1DkNNEV0lhU+e9uSYhtEHoHH8dQ=
+
+Name: org/apache/bcel/generic/ClassGen$1.class
+SHA1-Digest: sjtnB7kW+7PMv5sQmjVYEinqzN8=
+
+Name: com/lambda/Debugger/MyCollections$1.class
+SHA1-Digest: zPotd1cObUmV2FEOlS+czf6ErNM=
+
+Name: com/lambda/Debugger/ShadowFloat.class
+SHA1-Digest: Jg32vtROdM6dN9aPFTMfjDKRdO0=
+
+Name: edu/insa/LSD/CatchEvent.class
+SHA1-Digest: wObKeKk3Q9HoSRn86Gacw1lrDNw=
+
+Name: com/lambda/Debugger/StopButton.class
+SHA1-Digest: ySxHOf/QASLqd7p6JWS2//LtaRA=
+
+Name: org/apache/bcel/generic/ConstantPoolGen.class
+SHA1-Digest: MGbM618rL8ePaB6OM0acdh4TgKc=
+
+Name: MANIFEST.MF
+SHA1-Digest: qRnzE+H60DL7WsgK/wOcNXiSsto=
+
+Name: org/apache/bcel/classfile/Code.class
+SHA1-Digest: PJaztc1jlbal0fZpl8LkOZuElxw=
+
+Name: org/apache/bcel/generic/POP.class
+SHA1-Digest: LByZj6g3UtFxOFvRG4rbpd1bwHQ=
+
+Name: com/lambda/Debugger/CatchLine.class
+SHA1-Digest: 2ZaNWn2JmSmfaNz0vg9dYaIvFd0=
+
+Name: edu/insa/LSD/Value.class
+SHA1-Digest: 3Y9Lh5smRnpgc7cZf6kTOrS5Qwk=
+
+Name: images/PrevLine16.gif
+SHA1-Digest: 4I27MHvbWJD+Exm7tvH4WexsIIQ=
+
+Name: com/lambda/Debugger/ShadowDouble.class
+SHA1-Digest: q0LvDletn9/ngZ0JhH2kxZPBjXw=
+
+Name: com/lambda/Debugger/ParsePair.class
+SHA1-Digest: FrLMFF1T9kogBFWH5G2PnocMHEA=
+
+Name: org/apache/bcel/verifier/statics/DOUBLE_Upper.class
+SHA1-Digest: Gwxk+SVeVvwNXEJg/Wqb0Aho2IU=
+
+Name: org/apache/bcel/generic/InstructionConstants.class
+SHA1-Digest: zBgg7m5XpemRpqh0X2ICiqAzRIA=
+
+Name: org/apache/bcel/generic/F2L.class
+SHA1-Digest: ifrp1ZVpv6zqQMjyrD1PyCivdh0=
+
+Name: org/apache/bcel/ExceptionConstants$1.class
+SHA1-Digest: FmVE6hOoh22cA/FKZZvUmabh/Z8=
+
+Name: org/apache/bcel/generic/ALOAD.class
+SHA1-Digest: oNz8nNJKwC/f6Mwt1h2SfMZxCDA=
+
+Name: org/apache/bcel/verifier/statics/Pass2Verifier$CPESSC_Visitor.cl
+ ass
+SHA1-Digest: 8PaHAX6Kpz3k/9bShquHmYx8U7A=
+
+Name: org/apache/bcel/generic/I2C.class
+SHA1-Digest: rsvdflnSCJwed3f1IdecvyKpnlM=
+
+Name: com/lambda/Debugger/MethodCompletionPair.class
+SHA1-Digest: 4s/g0yfE/gmopcbZo8k5vOd+718=
+
+Name: com/lambda/Debugger/QuickSortNonThreadedString.java
+SHA1-Digest: Gne1w7l/dFMLV8peRKrVerlo1Xo=
+
+Name: com/lambda/Debugger/MyAbstractList$1.class
+SHA1-Digest: 5MM/6KxnYzeyOxwz8PlH3kNAywg=
+
+Name: com/lambda/Debugger/TraceLine9.class
+SHA1-Digest: JKjxVn4tsJ7z9/VaNTIdi8EQWNM=
+
+Name: org/apache/bcel/generic/INVOKESTATIC.class
+SHA1-Digest: ZS77ZfnM/XsoE+rCv58G9dwM/78=
+
+Name: org/apache/bcel/classfile/Signature.class
+SHA1-Digest: GTZ6CFm2Ez1JPHWagSVZH6q314o=
+
+Name: org/apache/bcel/classfile/LocalVariableTable.class
+SHA1-Digest: AEZig9PCUpJs5AvenUGIWC+PjVY=
+
+Name: com/lambda/Debugger/StopButton$1.class
+SHA1-Digest: D2v8/CGJPslcjeUqrYWtukp5mTo=
+
+Name: com/lambda/Debugger/StackList.class
+SHA1-Digest: CqOPqH+BgBj+MxUUjI5n/a/8AHQ=
+
+Name: com/lambda/Debugger/ObjectCompletionPair.class
+SHA1-Digest: uBDK/CGADbM+rr3UmPPvPP9y2Mc=
+
+Name: org/apache/bcel/verifier/structurals/ControlFlowGraph$Instructio
+ nContextImpl.class
+SHA1-Digest: lVRNfPnOt2KK8J3bUdGIuoFVNcw=
+
+Name: com/lambda/Debugger/DemoDeadLock.class
+SHA1-Digest: ai35EbRBD+0WDeXl0hej8mukpUs=
+
+Name: org/apache/bcel/util/ClassPath.class
+SHA1-Digest: /sbHHTLwcxgs0ugl1F72xabAbxs=
+
+Name: com/lambda/Debugger/Debugify.class
+SHA1-Digest: udDkVA7du+SZqVW5o6HRDJIjNsc=
+
+Name: edu/insa/LSD/StaticObjectIterator.java
+SHA1-Digest: je9GvUAIUeGb3SxpAIx8B34xCkY=
+
+Name: com/lambda/Debugger/ShadowInstanceVariable.java
+SHA1-Digest: bPDUee/Q64b9/pHgr1SU7l9QSpI=
+
+Name: org/apache/bcel/generic/INVOKESPECIAL.class
+SHA1-Digest: bou4Z/PXF3svVTascR/GGu/6180=
+
+Name: org/apache/bcel/generic/ISTORE.class
+SHA1-Digest: 4Sm7QDZo+P/V7GgIAGI8Wt9FrS8=
+
+Name: com/lambda/Debugger/TVPair.class
+SHA1-Digest: 8h6dn8QpUOf6frSaJSqYVOgl9Rc=
+
+Name: org/apache/bcel/util/ClassPath$Dir.class
+SHA1-Digest: ljwQrJUXyaAuEkKaRp751gKjiMQ=
+
+Name: com/lambda/Debugger/MyAbstractCollection.class
+SHA1-Digest: lj1py8gEB0SlWsvx0EM6G19u1q8=
+
+Name: com/lambda/Debugger/MySystem.java
+SHA1-Digest: yX7WRtv/6Wv0HpiG+yPx8QLWQis=
+
+Name: org/apache/bcel/generic/IUSHR.class
+SHA1-Digest: sTdzY0gnoUS+fMSPYH0T1is3ABQ=
+
+Name: org/apache/bcel/generic/FieldOrMethod.class
+SHA1-Digest: S0+QXBx5LOQh9niCK+xTxDKrFdM=
+
+Name: org/apache/bcel/verifier/structurals/Subroutines.class
+SHA1-Digest: qDP5mXgI9ekRYgSnvN73kzAQkOE=
+
+Name: com/lambda/Debugger/DemoThing.class
+SHA1-Digest: wG8k3gjcmm/jeRbP37ppHrf/HqQ=
+
+Name: com/lambda/Debugger/ReturnLine.class
+SHA1-Digest: QS17Rj3Y8C0253ewE+hC6g4cZIA=
+
+Name: com/lambda/Debugger/TTYListener.java
+SHA1-Digest: ckQVxq6M7Usr/sWilNGkztGh32Y=
+
+Name: edu/insa/LSD/TestCallback.class
+SHA1-Digest: 8GsM2n3MsNJVMsOiLDu7KXS4nZI=
+
+Name: com/lambda/Debugger/Thing.class
+SHA1-Digest: cABo4u6Bs9cVl6c3u9kAlw+rs7g=
+
+Name: org/apache/bcel/generic/FALOAD.class
+SHA1-Digest: u1Au5SqxVDRRDohX8UWYj3QSOPI=
+
+Name: com/lambda/Debugger/ThreadListener.java
+SHA1-Digest: Bb3BUHOvpRP8B/pJN7MRxr9q4L8=
+
+Name: org/apache/bcel/util/Class2HTML.class
+SHA1-Digest: H9r8/LvkzjxTx/1j9pE8xwMBDmY=
+
+Name: com/lambda/Debugger/Misc.class
+SHA1-Digest: nKq1wpJWe93S5l0oHEnMQd8/yUc=
+
+Name: org/apache/bcel/generic/I2S.class
+SHA1-Digest: O9HJmi2Fu65YuSv5g/BVm3RbefU=
+
+Name: com/lambda/Debugger/Completion.java
+SHA1-Digest: ysiSKuF65fnb3U9Ux/vbC2ZfGpg=
+
+Name: org/apache/bcel/generic/LoadInstruction.class
+SHA1-Digest: GcoK9pHGF72XprjEbaezgSpSGCw=
+
+Name: com/lambda/Debugger/TTYActionListener.java
+SHA1-Digest: MTSDCyIfRs1+3yGVhDiPoRVHV2s=
+
+Name: com/lambda/Debugger/HistoryListHashtable.java
+SHA1-Digest: tjVUglCxxEtOcuL3jKOxpvCiCpE=
+
+Name: org/apache/bcel/verifier/statics/StringRepresentation.class
+SHA1-Digest: MpClZEdeYSPf2tPWo0h3RjlEft0=
+
+Name: com/lambda/Debugger/LocalsPane.class
+SHA1-Digest: Nbcee748WjZtiFmVZGj05ox+eaQ=
+
+Name: com/lambda/Debugger/TraceLine4.java
+SHA1-Digest: kXiHaVOZ6MS/ku0/TPV0qSwmz+k=
+
+Name: com/lambda/Debugger/FilterMenuActionListener.java
+SHA1-Digest: nm1CE/qihQa0F1AIscqtB7pwwSM=
+
+Name: org/apache/bcel/generic/IF_ICMPLT.class
+SHA1-Digest: 3fE2Mm8FOaGdY2Uv95pzgsQ9CQw=
+
+Name: org/apache/bcel/generic/InstructionList$1.class
+SHA1-Digest: LiU9RGccX8LyXOR9vdsw048MgaU=
+
+Name: edu/insa/LSD/Condition.class
+SHA1-Digest: XVykawAhdVIu0m7SFiBjYuy+gLY=
+
+Name: com/lambda/Debugger/MyCollections$SingletonSet.class
+SHA1-Digest: zl6isqL1tTVBDcMiDE2N1Yrmh2o=
+
+Name: com/lambda/Debugger/TimeSliderListener.java
+SHA1-Digest: VfcaEkzeLqWsV7AmiTEXh13Bc2c=
+
+Name: org/apache/bcel/classfile/Method$1.class
+SHA1-Digest: Bwpu8qOHQo9V8pEiYQgXwSXYEAg=
+
+Name: com/lambda/Debugger/TraceLine10.java
+SHA1-Digest: MoiNdika1CGyjtL0oq+foa46XJw=
+
+Name: com/lambda/Debugger/TTYPane.class
+SHA1-Digest: 2dniz47zFDDFCxtVVPdRbUNkvuM=
+
+Name: org/apache/bcel/ExceptionConstants.class
+SHA1-Digest: 2Ua3jz697JaGKj1LuDB4xIvNsMk=
+
+Name: com/lambda/Debugger/HashMapEq$2.class
+SHA1-Digest: eRWfeX409/U+3sJCWwhUCTzTOxk=
+
+Name: org/apache/bcel/generic/INVOKEVIRTUAL.class
+SHA1-Digest: QUt7p+UxUdMUQ2ZfJ7ykCCEvJyw=
+
+Name: org/apache/bcel/generic/IREM.class
+SHA1-Digest: zCH+MMebVajlYtZ8yKHc08WFWw0=
+
+Name: org/apache/bcel/classfile/Deprecated.class
+SHA1-Digest: DNt5+27Rvq5QYEsoHj4FQsS8WTg=
+
+Name: com/lambda/Debugger/ValueChooser$1.class
+SHA1-Digest: X7WdGnixYc3dfOx0e0nUe6EdL7k=
+
+Name: edu/insa/LSD/ShadowObjectIterator.class
+SHA1-Digest: /T73VIb3lLTlJ+U3us6wCdt7l5g=
+
+Name: com/lambda/Debugger/DemoRunnable.class
+SHA1-Digest: ZE/QJsRWPFzsCEQ6qw/qVu8l38I=
+
+Name: org/apache/bcel/util/ClassStack.class
+SHA1-Digest: pZVoOiE1aix0y2Nri7V1lykUnf8=
+
+Name: org/apache/bcel/generic/FREM.class
+SHA1-Digest: u0uw5LlwV9qpN3GT4pKNYgkLV9o=
+
+Name: com/lambda/Experiment/Analysis.class
+SHA1-Digest: x7cagkcGmsuAYolsnXC8Ha5Azl8=
+
+Name: com/lambda/Debugger/HistoryListMultiple.class
+SHA1-Digest: NcsQId0j9X12+YZwiVPhUk3/nsI=
+
+Name: org/apache/bcel/verifier/VerifierFactory.class
+SHA1-Digest: OWvGKQUJROYyhDvl+tjtdCInG6E=
+
+Name: edu/insa/LSD/ExitEvent.java
+SHA1-Digest: ImHs/DWiDppBAfQCo1W/xp59Ow0=
+
+Name: Microsoft/debugdi.bat
+SHA1-Digest: szY35qvpSMB6RrKhACP8tgFDnk8=
+
+Name: com/lambda/Debugger/MyThing.class
+SHA1-Digest: JxYUL8wkIlWzgxZhrhsRk4mvWns=
+
+Name: scripts/clearAliases
+SHA1-Digest: MaVJIpCad223W+gsFPrwUQss7G0=
+
+Name: org/apache/bcel/generic/InstructionFactory$MethodObject.class
+SHA1-Digest: TmfenM2NzqUngCuOeG5D4TJttEI=
+
+Name: org/apache/bcel/generic/MethodGen$1.class
+SHA1-Digest: F5IrgpqEy/fSgYwwInHlk5+RkJs=
+
+Name: edu/insa/LSD/ChangeInstanceVariableEvent.class
+SHA1-Digest: WpiBOzKXKjEKd0yCETHDCTpPtVI=
+
+Name: com/lambda/Debugger/Rewrite.class
+SHA1-Digest: I7WBEjJCoVyVyK8Lu8f1Z/s/lRU=
+
+Name: com/lambda/Debugger/PauseCallback.class
+SHA1-Digest: sftwU+NQGlnjjpkpd+XxnidTDGE=
+
+Name: org/apache/bcel/generic/LDIV.class
+SHA1-Digest: LKnQSf7C0Bvl/NXuDb00uhY3ooY=
+
+Name: com/lambda/Debugger/Locals7.class
+SHA1-Digest: 3+gHGmIVdhYhHgRvjCEAQY/PT1Y=
+
+Name: edu/insa/LSD/Operator.java
+SHA1-Digest: AxnA4d1337d52U32K2CEl/nPt80=
+
+Name: com/lambda/Debugger/Locks.java
+SHA1-Digest: wfd5CiWSMjRIyZy3IVkOEtO9IC8=
+
+Name: org/apache/bcel/verifier/exc/Utility.class
+SHA1-Digest: 3Ix5zmImky8IatxPDWTHZyNavDU=
+
+Name: org/apache/bcel/generic/FieldGenOrMethodGen.class
+SHA1-Digest: 4s3XjhWdYt2yuigHecm/r2fEGWA=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$3.class
+SHA1-Digest: f19KcutDzVw7FDt2vYKPHCmr8Hs=
+
+Name: org/apache/bcel/verifier/structurals/GenericArray.class
+SHA1-Digest: HXZMYJY8hJOSGhGSKmkH+yAXUas=
+
+Name: org/apache/bcel/classfile/StackMapEntry.class
+SHA1-Digest: nS/SoWCV/FPi/lF0kZfDOjknpiA=
+
+Name: org/apache/bcel/classfile/Utility$JavaWriter.class
+SHA1-Digest: 3blFBgF0oUok9yxoZLKp6BTYlLQ=
+
+Name: edu/insa/LSD/ShadowObjectIterator.java
+SHA1-Digest: t+8kaT27/uCSAu5QmLLXubtwUMQ=
+
+Name: com/lambda/Debugger/HashMapEq$Entry.class
+SHA1-Digest: f7sgQTXDXrYnyI5EAwBtckPin64=
+
+Name: com/lambda/Debugger/TraceMenuActionListener.java
+SHA1-Digest: kmPdORLmhLtyNQdJjkFi7Ag3foU=
+
+Name: com/lambda/Debugger/HistoryListTripleton.class
+SHA1-Digest: R9uhpv55wLf83ywobIFNO4p3T34=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableSortedSet.class
+SHA1-Digest: XwwaE6wAkXh6og0FPiK+rCLLdEc=
+
+Name: com/lambda/Debugger/ThreadD.class
+SHA1-Digest: vOf4basi6YTVMW2sayaTnBjf92c=
+
+Name: org/apache/bcel/generic/InstructionFactory.class
+SHA1-Digest: 0La3jyGYIkMqYtlNteUFyfoSXHs=
+
+Name: com/lambda/Debugger/DoubleClickJList.class
+SHA1-Digest: /qUx6zxJA78fRFw0l9lASc6dZ90=
+
+Name: com/lambda/Debugger/TTYActionListener.class
+SHA1-Digest: 9YsbSZtr/0EO0ghCdasyFWiG9XQ=
+
+Name: org/apache/bcel/generic/CompoundInstruction.class
+SHA1-Digest: eGKuT1hlEwInB+Yxc2iDz+d/J2s=
+
+Name: org/apache/bcel/generic/AllocationInstruction.class
+SHA1-Digest: RNYTfZWv0xDpOW0KVuVXY/LuMVQ=
+
+Name: edu/insa/LSD/LockEvent.java
+SHA1-Digest: hF6uoex69LNSlTCyaxR0Jm+R/xs=
+
+Name: com/lambda/Debugger/ThisActionListener.java
+SHA1-Digest: OdNBc38HkE3az0D3CrKlUfKzBIU=
+
+Name: com/lambda/Debugger/TraceLine3.class
+SHA1-Digest: AunyeeeNy8bz4e7G/D0u8dyCwGg=
+
+Name: com/lambda/Debugger/HistoryListHashtable.class
+SHA1-Digest: IgSo+FvhfuA2pHAtUrLheDmRoj4=
+
+Name: com/lambda/Debugger/QuickSortNonThreadedString.class
+SHA1-Digest: 9dyre+ptvPf4I3LP2/jdQx6QnMI=
+
+Name: org/apache/bcel/classfile/ConstantClass.class
+SHA1-Digest: wr76cmTmboczynhLR8yq61M4WmM=
+
+Name: org/apache/bcel/classfile/ConstantMethodref.class
+SHA1-Digest: mrFfKcKo03ED/+5t2sg2aphisIw=
+
+Name: com/lambda/Debugger/ShadowLong.class
+SHA1-Digest: PI5MZN00EaNl86UWaeQIQjAewWI=
+
+Name: Microsoft/debugv.bat
+SHA1-Digest: Jmdieb2CyFBRqAY2u6TL0OjDKnE=
+
+Name: com/lambda/Debugger/Shadow.class
+SHA1-Digest: pVHi8i4LFMZxQaFSSdb7vtmKKok=
+
+Name: org/apache/bcel/generic/IOR.class
+SHA1-Digest: 4yMI1qtBaWTQPr2ES1hU5R+dh1g=
+
+Name: com/lambda/Debugger/FilterMenuActionListener.class
+SHA1-Digest: j75AaSkDg/rckNVMI4RaiyWWVPE=
+
+Name: org/apache/bcel/generic/D2F.class
+SHA1-Digest: dE36nXQoT3G4alXyVQsIazrz7ss=
+
+Name: com/lambda/Debugger/TraceLine1.class
+SHA1-Digest: xUdOw/c1pPkgkGsxEP/5JYn4aE0=
+
+Name: edu/insa/LSD/VariableValue.java
+SHA1-Digest: Ulf+D5Uq/lqWjqTAoON7WaWwblA=
+
+Name: org/apache/bcel/generic/LADD.class
+SHA1-Digest: rjUUh9781DBZittih0iBkl1JK/M=
+
+Name: com/lambda/Debugger/CodeActionListener.java
+SHA1-Digest: sH/ECSeA+2zRv3UEFpjS6467hjc=
+
+Name: edu/insa/LSD/StateImpl.java
+SHA1-Digest: iYBMdK50B32gzQ0WpxKvmNfxSkY=
+
+Name: org/apache/bcel/util/ByteSequence.class
+SHA1-Digest: 9t4kXW5DthCLLFI0qrFBIbbOpnc=
+
+Name: org/apache/bcel/verifier/structurals/ExecutionVisitor.class
+SHA1-Digest: 8+gMVfK7P9/e+O7yahmWso6p60U=
+
+Name: org/apache/bcel/generic/GotoInstruction.class
+SHA1-Digest: VEeEhs4vtaJMWVH7JQwAqsebg1Y=
+
+Name: org/apache/bcel/generic/IASTORE.class
+SHA1-Digest: GpkkjJg5LkofTb+lsachfcBdlNk=
+
+Name: org/apache/bcel/generic/FRETURN.class
+SHA1-Digest: Tl7pce5mKxEtisuIQ6/sSHxbjkE=
+
+Name: com/lambda/Debugger/TTYListener.class
+SHA1-Digest: 6DNG+Y6NHfC9T9HgINIZLuhJfw0=
+
+Name: com/lambda/Debugger/TimeStamp$1.class
+SHA1-Digest: 6dHobLHDrvTUlQTzjaM77MayKVA=
+
+Name: org/apache/bcel/classfile/StackMapType.class
+SHA1-Digest: +OzEb3dysefzM7ZVpgADK9241eQ=
+
+Name: org/apache/bcel/classfile/Method.class
+SHA1-Digest: oTUyJR/SaUl9gzSZTfUnp4JR/sA=
+
+Name: com/lambda/Debugger/StopButtonActionListener.java
+SHA1-Digest: /4+A23gDDlSEUSSuRCOnZTQI63A=
+
+Name: com/lambda/Experiment/Rewrite.class
+SHA1-Digest: xw1avcEHFeTHsLto0+4tviTq4lo=
+
+Name: org/apache/bcel/verifier/statics/Pass2Verifier$1.class
+SHA1-Digest: +DPqAHTnY/hQl3mu2mED3LCa+K8=
+
+Name: org/apache/bcel/classfile/SourceFile.class
+SHA1-Digest: ZUa+Xe/dZH1+aVxReY/ScZp4I3Q=
+
+Name: com/lambda/Debugger/Clock.class
+SHA1-Digest: aXnEU9uuo1F18Gmo9+w3wfZBtu0=
+
+Name: com/lambda/Debugger/LocalsActionListener.java
+SHA1-Digest: 2BoKJVoaqB/eLb4tlVvjBM4a4QY=
+
+Name: edu/insa/LSD/QueryCdata.java
+SHA1-Digest: GsnfNALi+MQCqVBuJgVk6nC9vuA=
+
+Name: org/apache/bcel/util/InstructionFinder.class
+SHA1-Digest: XV9SgJ5gXMVYiJsEsvbYNP3dP4c=
+
+Name: .settings/org.eclipse.jdt.ui.prefs
+SHA1-Digest: 9YjV83J8s4KabXCD3aVrUaQBsUw=
+
+Name: org/apache/bcel/generic/MULTIANEWARRAY.class
+SHA1-Digest: 8x0QDLhFYgY+j9n5P6QERgz4z2s=
+
+Name: org/apache/bcel/classfile/DescendingVisitor.class
+SHA1-Digest: tM/aeU0vadc+PdEn9n1GQ/NqtY0=
+
+Name: com/lambda/Debugger/FileMenuActionListener$1.class
+SHA1-Digest: xZUarqaipNZSJlltGw2IZMCEBMU=
+
+Name: org/apache/bcel/util/ClassPath$ClassFile.class
+SHA1-Digest: PAmZtUr6LDAcyQk04cifxh3Lq2Q=
+
+Name: edu/insa/LSD/Event.class
+SHA1-Digest: xHOJVa5Ms+j2gBXAJSHgKSbztOU=
+
+Name: com/lambda/Debugger/LocalsMore.class
+SHA1-Digest: koTzs4i+vP8LoP8iAL9bHmL0zXs=
+
+Name: com/lambda/Debugger/TraceLine9.java
+SHA1-Digest: H5KMD23wux6uZkoAZqc5EL5zKi0=
+
+Name: org/apache/bcel/classfile/ClassFormatException.class
+SHA1-Digest: NV9VONMPXQx+YhOMy9l/TLNLREg=
+
+Name: org/apache/bcel/generic/DLOAD.class
+SHA1-Digest: 8+f+VaHTSr6wCqdoextjLtoNAd4=
+
+Name: edu/insa/LSD/Condition.java
+SHA1-Digest: 8vM3xafF9BmuIzvgpaopjSOifMQ=
+
+Name: com/lambda/Debugger/SubList$1.class
+SHA1-Digest: QSPbEBtkANzWKBw7/Q0VxYiHwdQ=
+
+Name: org/apache/bcel/generic/ILOAD.class
+SHA1-Digest: 0ccQOjSJ5VVpI6FUwQfKdOqnsM4=
+
+Name: org/apache/bcel/generic/ASTORE.class
+SHA1-Digest: 8InFUKj4jb/hsNEB1QLk8NHRpEo=
+
+Name: org/apache/bcel/generic/DUP2_X1.class
+SHA1-Digest: F4hww8kVbIAE4cfhZYWUOo8LELA=
+
+Name: org/apache/bcel/classfile/ClassParser.class
+SHA1-Digest: Dizxu5ZocRL+Wk+/hvKil1SGk/I=
+
+Name: edu/insa/LSD/EventPattern.class
+SHA1-Digest: Z41CCy04u/g8qgPvcERmW32Hxlg=
+
+Name: org/apache/bcel/verifier/VerifierFactoryObserver.class
+SHA1-Digest: JvQOCuKKNThG8aIe13ZBsfR03zw=
+
+Name: edu/insa/LSD/EventImpl.class
+SHA1-Digest: by7xP++A7h5gRCbMs6VeNVH//jU=
+
+Name: com/lambda/Debugger/ShadowInstanceVariable.class
+SHA1-Digest: fZxfECWPu6rKZ0QtUFrdZKQjpV8=
+
+Name: com/lambda/Debugger/VectorD.java
+SHA1-Digest: 6VqpTB3hBSKAmNaqHDWfHlGSL4Y=
+
+Name: com/lambda/Debugger/D.java
+SHA1-Digest: qWGEv8Euh4M8es1DXG/Z7UqjkHA=
+
+Name: com/lambda/Debugger/FileLine.class
+SHA1-Digest: UIb0+huCk+XcmeuWLEQ7KrJpHZ4=
+
+Name: com/lambda/Debugger/FileMenuActionListener.java
+SHA1-Digest: Ws9tey/98x7EiiY/TsGFYb5Uatk=
+
+Name: org/apache/bcel/generic/MethodObserver.class
+SHA1-Digest: Uo8Q8ZWg7lJR7eFIwUNGCvmmUjo=
+
+Name: org/apache/bcel/verifier/exc/VerificationException.class
+SHA1-Digest: C5O4VfEe9TSbU+YDUk0QmysIo+g=
+
+Name: edu/insa/LSD/QueryCdata.class
+SHA1-Digest: IO05+7i/j5USElr3SfaBw8S4Nug=
+
+Name: com/lambda/Debugger/ValueChooser$2.class
+SHA1-Digest: PHGwuksoSWeYNOp+6J02ahTUP+E=
+
+Name: com/lambda/Debugger/Locals10.java
+SHA1-Digest: IgIFvGCYLsgSxOak1gpdgdRHur4=
+
+Name: edu/insa/LSD/.ddebuggerDefaults
+SHA1-Digest: ppO4pUnv5KlrJCUV8l1xfXZswz0=
+
+Name: edu/insa/LSD/ConstantValue.class
+SHA1-Digest: wB+RsZJhpX1TzR0E4BIx977cllI=
+
+Name: com/lambda/Debugger/MyAbstractList$Itr.class
+SHA1-Digest: JttLdZ26KhKXxPd2sB3jPLUAYkA=
+
+Name: com/lambda/Debugger/CompletionException.java
+SHA1-Digest: ncPz2tKk6kH+D+MBZgXdmifDHic=
+
+Name: com/lambda/tests/LoadOrderTest.java
+SHA1-Digest: e23VYkooJ6rCcC37j9Di1nbzSeQ=
+
+Name: org/apache/bcel/classfile/StackMap.class
+SHA1-Digest: jGGQBPjN56jUhctMCAfbxWu2KC8=
+
+Name: com/lambda/Debugger/Defaults.java
+SHA1-Digest: 3vnJLVzgrD55t3eFg1tksTjXdfk=
+
+Name: com/lambda/Debugger/MiniBuffer$7.class
+SHA1-Digest: V1gx/KoDwkY+aD/FNj8jCoYCIiI=
+
+Name: README
+SHA1-Digest: 791iY9O/ghMPXldfDRgNUhm78cE=
+
+Name: edu/insa/LSD/StaticState.class
+SHA1-Digest: /ZpUA+MBMlum+SxIUAo4fN6Pja4=
+
+Name: org/apache/bcel/verifier/VerifyDialog$IvjEventHandler.class
+SHA1-Digest: juBx2TAi5SjVkjOJ8Ktn9RDp3Pk=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedSortedSet.class
+SHA1-Digest: opFUh1Wz9pgxtVGC2c2S/S9YWcE=
+
+Name: org/apache/bcel/generic/DSTORE.class
+SHA1-Digest: gwO94w8fdvd3hzzUj9UiDi+LIgg=
+
+Name: com/lambda/Debugger/CodeListener.java
+SHA1-Digest: h8OQMF133RP7c/NK0MlFWr6f86Q=
+
+Name: org/apache/bcel/generic/InstructionHandle.class
+SHA1-Digest: 2M/Dr0WBOaxtRS7u4E1+LFR/eNc=
+
+Name: org/apache/bcel/generic/DASTORE.class
+SHA1-Digest: PJNIRt/fNAq4Wt23ulHu6PrBbRU=
+
+Name: com/lambda/Debugger/MyObj.class
+SHA1-Digest: pjrxZzvROONxJom9XHXlWU4x3MY=
+
+Name: org/apache/bcel/generic/CASTORE.class
+SHA1-Digest: GK3vzTpg3eYNVFYuEWChKtL+SAE=
+
+Name: com/lambda/Debugger/Shadow$1.class
+SHA1-Digest: ZDSL9zN+F4kQZ3zh27Y0WASdlog=
+
+Name: org/apache/bcel/generic/INSTANCEOF.class
+SHA1-Digest: fKRzrkvFGf6IoRUGmzRC/Wi7mgc=
+
+Name: com/lambda/Debugger/Locals5.java
+SHA1-Digest: CiaDHdjU50gujhM+Y7tbriSOSvw=
+
+Name: org/apache/bcel/classfile/Synthetic.class
+SHA1-Digest: gTfUY3wGeC6TdkBvWctLQWCkUaA=
+
+Name: org/apache/bcel/generic/DUP2.class
+SHA1-Digest: fMnqowy0/8k+wbdtgsww/pnn/Uo=
+
+Name: org/apache/bcel/util/ByteSequence$ByteArrayStream.class
+SHA1-Digest: mHxw5DY/uqTcvmYTuNxab/tkiic=
+
+Name: com/lambda/Debugger/Debugify.java
+SHA1-Digest: fJSZJjKOq2wkgWnWS3ADco448vs=
+
+Name: com/lambda/Debugger/Launch$1.class
+SHA1-Digest: Zg5avEB94JxG36/SoKsVBnqmpDU=
+
+Name: com/lambda/Debugger/DemoWait.class
+SHA1-Digest: yCwaYCIlK38UC0U1jn3NWOiKYNU=
+
+Name: com/lambda/Debugger/TraceLine5.java
+SHA1-Digest: SX56tk95lDKX+E0b0V+MVrDd9x8=
+
+Name: com/lambda/Debugger/SubThing.class
+SHA1-Digest: t9BbL74Wt2rbuGG6NZ+Crf4bBfQ=
+
+Name: org/apache/bcel/generic/FADD.class
+SHA1-Digest: AYHKDTEIlOvHKFGfMjuBjo8gB1c=
+
+Name: org/apache/bcel/generic/LSTORE.class
+SHA1-Digest: NpEO2MyUvprnOF/57zfbwuq8oEM=
+
+Name: org/apache/bcel/verifier/VerifyDialog.class
+SHA1-Digest: rFkQLl2BuvHxspnTCuMXP41NLTA=
+
+Name: org/apache/bcel/generic/LSHL.class
+SHA1-Digest: GUNxhPl0TiP4/wY453XsA712yNg=
+
+Name: com/lambda/Debugger/TraceLine2.java
+SHA1-Digest: 91b4VM0vltE2llmbBTMHdKxGPMI=
+
+Name: COPYING
+SHA1-Digest: MD7CmLXWdUeQPDE2E/dlg+209aM=
+
+Name: com/lambda/Debugger/MiniBuffer$1.class
+SHA1-Digest: CJ6kqtng6wiYNp0uVQAh8+6L5hk=
+
+Name: org/apache/bcel/Repository.class
+SHA1-Digest: ZqVKR0OsAp/9+5YdH3BxpyQNyCY=
+
+Name: com/lambda/Debugger/MyAbstractList$ListItr.class
+SHA1-Digest: NzIT2iF1W31Eig9g9WH+yHtZqG4=
+
+Name: com/lambda/Debugger/Locals0.class
+SHA1-Digest: y2uoOUvoa3+kmIn6hVAcjhcSKZw=
+
+Name: com/lambda/Debugger/ClassObjectFilter.java
+SHA1-Digest: 72TZELer5cI6SRMhQXTsGP+O5Pc=
+
+Name: com/lambda/Debugger/StackMenuActionListener.java
+SHA1-Digest: RxAEhnIhOo4IT8SHW+JlwJysul0=
+
+Name: org/apache/bcel/generic/D2L.class
+SHA1-Digest: UHgFruCEi7zV9uKjQY12TxBNIHM=
+
+Name: com/lambda/Debugger/PrefixEntry.class
+SHA1-Digest: uo+KswU/s4ukY/vfCv+V5EY88sg=
+
+Name: org/apache/bcel/generic/LSUB.class
+SHA1-Digest: OEooN4NGW0YSyoB9tBJi6HTntq8=
+
+Name: org/apache/bcel/generic/AALOAD.class
+SHA1-Digest: hUH2+vQDe2FHxHsGKrNqs4VvQ8w=
+
+Name: com/lambda/Debugger/ShadowShort.java
+SHA1-Digest: mXOSPFbynAB7w5tP+un6bDNPOGQ=
+
+Name: com/lambda/Debugger/TimeStamp.class
+SHA1-Digest: JjhTk/Hml72ux3ftzfXmX68rK0I=
+
+Name: com/lambda/Debugger/DisplayVariables$1.class
+SHA1-Digest: +ibvRxdv1ou0os8Kdl2w4qVuL/k=
+
+Name: com/lambda/Debugger/SUPER.class
+SHA1-Digest: pdaPwHb6CmvfLRZ9HNO6L3+1AsQ=
+
+Name: edu/insa/LSD/Tuple.class
+SHA1-Digest: Qa7zs4vf4lMX8M8R5FXRX497I5A=
+
+Name: org/apache/bcel/verifier/exc/LoadingException.class
+SHA1-Digest: 7nUIl1mvSbLOgjOoW/Aj9VX+sa0=
+
+Name: org/apache/bcel/verifier/Verifier.class
+SHA1-Digest: il42E0VshJyk9eL5veYeUYqm+Nw=
+
+Name: com/lambda/Debugger/ParsePair.java
+SHA1-Digest: bqTEKfcL5aTILsYe8y4uzsMAEdw=
+
+Name: org/apache/bcel/generic/LASTORE.class
+SHA1-Digest: FTr8dgW2ox1W41rv+pI+8zilerw=
+
+Name: org/apache/bcel/verifier/structurals/OperandStack.class
+SHA1-Digest: 5fMhpM5GA+0ah/TiTXSMWMCbfVc=
+
+Name: org/apache/bcel/util/ClassLoaderRepository.class
+SHA1-Digest: MN/6nP8/8+djn93TM50f8tCQwfY=
+
+Name: com/lambda/Debugger/Debugger$2.class
+SHA1-Digest: aunxiyZunQw/9kpVTosAJCI3KgE=
+
+Name: com/lambda/Debugger/HashMapEq.java
+SHA1-Digest: CzEue77B3DDmnX3wvN/kjFBSDeI=
+
+Name: com/lambda/tests/InnerClassTest$1.class
+SHA1-Digest: lxfrzLDl1J7e5NDyMycxeGH3hAc=
+
+Name: org/apache/bcel/generic/F2I.class
+SHA1-Digest: rtFgoFHN7d6ye5LLwXbaddj42wc=
+
+Name: org/apache/bcel/classfile/Utility.class
+SHA1-Digest: 8t4fpsHZG4CLg7YkKs6CeGb3X3o=
+
+Name: edu/insa/LSD/StackFrame.class
+SHA1-Digest: n/M1pDdJJQ1nrBs2jFzm1UXsMcY=
+
+Name: org/apache/bcel/generic/MethodGen$BranchTarget.class
+SHA1-Digest: jq/nSMsZdnDeZemNfAWu4lDXbXc=
+
+Name: com/lambda/Debugger/MiniBuffer$4.class
+SHA1-Digest: mXD2cyuKnMdHoEBa2FC9BMZY3XI=
+
+Name: scripts/instrument.csh
+SHA1-Digest: qX5oEIoQ/mYp4oGKDLfwanuK4QE=
+
+Name: com/lambda/Debugger/StackListener.class
+SHA1-Digest: oukCwe590wYU/2IXVTPwCvfDOUc=
+
+Name: com/lambda/Debugger/ValueChooser.java
+SHA1-Digest: owY4FYRkZE3l7k4I8FsCE6VB1sc=
+
+Name: com/lambda/Debugger/SpecialTimeStampFormatter.java
+SHA1-Digest: IaXNh9McfuV+qb02sn8bxMvG+5g=
+
+Name: com/lambda/tests/GetPackageTest.java
+SHA1-Digest: zahpO7qZpzbxGnkUhHEHrgu0GbU=
+
+Name: com/lambda/Debugger/OneNew.class
+SHA1-Digest: wLSnIxw2rWdBmXBtnLu/2/903WY=
+
+Name: com/lambda/Debugger/DoubleClickJList$1.class
+SHA1-Digest: MmF/4nbobtoG72+s7uezbcjXWyA=
+
+Name: com/lambda/Debugger/ThreadPane.class
+SHA1-Digest: 4H5w21J+ciONObB0m7GW3hLEFNM=
+
+Name: org/apache/bcel/classfile/InnerClasses.class
+SHA1-Digest: 1F1G1Rxx9XOHYWmfA9AUPmcAbKY=
+
+Name: org/apache/bcel/verifier/exc/StaticCodeConstraintException.class
+SHA1-Digest: cyEZHO+HK4u9mmzsQ0p9j31dSgk=
+
+Name: org/apache/bcel/generic/IF_ICMPGE.class
+SHA1-Digest: Gh8fTmLl8odFwEbz14LE3igi0ao=
+
+Name: org/apache/bcel/verifier/exc/LocalVariableInfoInconsistentExcept
+ ion.class
+SHA1-Digest: CpihFv7nJVRYwOKjOsVYljUh0Wo=
+
+Name: edu/insa/LSD/ChangeArrayEvent.class
+SHA1-Digest: iAizhhgUrIeqkGS6N4bYMdC3RGA=
+
+Name: edu/insa/LSD/LSDException.java
+SHA1-Digest: lKyR9dKDuc+105xG4k6x9zPCmK0=
+
+Name: org/apache/bcel/util/ClassQueue.class
+SHA1-Digest: Un3GoqaftAOoGCy+zNxbWYtZqn4=
+
+Name: docs/Threads.jpg
+SHA1-Digest: c84WAa7pAYzSQu/9TWia1hu4Je4=
+
+Name: org/apache/bcel/classfile/ConstantValue.class
+SHA1-Digest: uEIVRA+PG1UMudICi/4i1SXXM1U=
+
+Name: com/lambda/Debugger/ShadowBoolean.java
+SHA1-Digest: U8Lt+bWtb5J/yUeFdE/HfikPbRo=
+
+Name: org/apache/bcel/generic/DCMPL.class
+SHA1-Digest: MnOml1lIpyPxU//sTe3DXp/xhRE=
+
+Name: scripts/instrumentDD.sed
+SHA1-Digest: aRCN1neWUlF6eTp2s0bIyl6HHtQ=
+
+Name: org/apache/bcel/verifier/statics/Pass2Verifier$FAMRAV_Visitor.cl
+ ass
+SHA1-Digest: lo1TlDzPjFakdjIZr41YjiQb3OY=
+
+Name: org/apache/bcel/generic/VariableLengthInstruction.class
+SHA1-Digest: DriDwJ508aZr8FvjgfjqrllE2ng=
+
+Name: org/apache/bcel/generic/RET.class
+SHA1-Digest: eVF7Q+fzL1lVJ8Jp5f8CmXTZ6c8=
+
+Name: com/lambda/Debugger/DebuggerActionListener.class
+SHA1-Digest: MEwiqdq9LQF1KbEXWmtS+WBjdYg=
+
+Name: images/BackLoop16.gif
+SHA1-Digest: SkiKr9+B6yVOCKk1Z/GzMyCrwA0=
+
+Name: org/apache/bcel/generic/InstructionComparator$1.class
+SHA1-Digest: Bhseg463XJzAbsINVbIe2HnwnHg=
+
+Name: com/lambda/Debugger/TVPair.java
+SHA1-Digest: nbSN/2D/Fb7nBEqcEc1TJE7uQSE=
+
+Name: org/apache/bcel/generic/BranchHandle.class
+SHA1-Digest: USgFl0iVwPV4TTOreuxtySfJeBE=
+
+Name: org/apache/bcel/generic/IFLT.class
+SHA1-Digest: 7APd22c5qIZeEBB5lDxhwqg6YUM=
+
+Name: com/lambda/Debugger/LocksList.class
+SHA1-Digest: Tu0bymCDEQrmuXTgP/Who1h4gQQ=
+
+Name: com/lambda/Debugger/ShadowLocal.java
+SHA1-Digest: tkHWFcPMq2xjSxtrzFFbzk71/uk=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedMap.class
+SHA1-Digest: fWgoPcFr60zNtDeVqvYuvove5n0=
+
+Name: com/lambda/Debugger/LocalsMore.java
+SHA1-Digest: WIGfEsm593471aOGWbwi7+e42+g=
+
+Name: org/apache/bcel/generic/LMUL.class
+SHA1-Digest: Hv7PBcxJqOpH0icCAWaogaq2+2Q=
+
+Name: com/lambda/Debugger/ThreadD.java
+SHA1-Digest: 22kpWqeMCNRw9H1KC87ypXgOnt8=
+
+Name: org/apache/bcel/generic/IFEQ.class
+SHA1-Digest: fDr9u0ziduKlQmvRjGb+HvOuPLk=
+
+Name: com/lambda/Debugger/SpecialFormatter.class
+SHA1-Digest: thXjNnLp5c8sPivXCozTN0vZ3oY=
+
+Name: org/apache/bcel/classfile/LineNumberTable.class
+SHA1-Digest: zxBRTk8Bo8Tb1d9HBPj6R8prZ0Y=
+
+Name: org/apache/bcel/generic/FSTORE.class
+SHA1-Digest: EEZ6oBig1bQvg4UOW2TJBanicfI=
+
+Name: java/lang/ClassLoader.class
+SHA1-Digest: a5UZDODMhNCiWWW/c7MOg+v42cs=
+
+Name: org/apache/bcel/generic/ClassObserver.class
+SHA1-Digest: iVcJkf+mA/9mq0dCdsEBsOndJiY=
+
+Name: edu/insa/LSD/Tuple.java
+SHA1-Digest: znVORJ1Pz63UKQYkvp0ljK6d5OA=
+
+Name: com/lambda/Debugger/SideEffects.java
+SHA1-Digest: b/QjXpREZOd+mjw6qzGjgtj/Cxo=
+
+Name: com/lambda/Debugger/ThisPane.class
+SHA1-Digest: RkV2FU8Fx1fFUGDIP6n7R5/c16s=
+
+Name: com/lambda/Debugger/DemoString.java
+SHA1-Digest: zjMGyJxeliMo3l7RepUGdhA82XU=
+
+Name: org/apache/bcel/generic/IfInstruction.class
+SHA1-Digest: qgGqbucuH5DrwqVP6sGejCGwFz4=
+
+Name: org/apache/bcel/generic/I2D.class
+SHA1-Digest: MFqtE0eZSdrDYZs6J5fWv1o4lH8=
+
+Name: com/lambda/Debugger/TraceLine5.class
+SHA1-Digest: 66nUKzxKUBeiIW21tVCSPSeEyFs=
+
+Name: com/lambda/Experiment/RewriteManuscript.class
+SHA1-Digest: ErvogrTWXqgM2xI91aBscUdlAKg=
+
+Name: org/apache/bcel/classfile/ConstantObject.class
+SHA1-Digest: VSs5fbk+YJB/1KXuLB15ISuKCNs=
+
+Name: com/lambda/Debugger/Launch.java
+SHA1-Digest: odH6AG5BYCtuKEZiZY0XBBhUUMM=
+
+Name: org/apache/bcel/verifier/statics/LocalVariableInfo.class
+SHA1-Digest: U+8UkTaz8kYiEkqcLvewAg+a1Oc=
+
+Name: com/lambda/Debugger/Shadow.java
+SHA1-Digest: RONl0dNeIXzqwnv0ZHFgL+jJUyI=
+
+Name: com/lambda/Debugger/ClassInformation.java
+SHA1-Digest: OK5vlMIoWMSf6VtX1ldVYxYycjQ=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableMap$UnmodifiableEn
+ trySet$1.class
+SHA1-Digest: cbJOJ1yRqzj8JldsQVX3cV96Aj4=
+
+Name: com/lambda/Debugger/ObjectListener.class
+SHA1-Digest: uBlQLBmZmD7wF75kgEmwWL1e8eg=
+
+Name: com/lambda/Debugger/ClassInformation.class
+SHA1-Digest: 9vdMilmAN7S/OYQ6IYLX19W4/qs=
+
+Name: com/lambda/Debugger/TimeStamp.java
+SHA1-Digest: nxf0Rwh8v8rIcbuxXx3ck6m/aww=
+
+Name: com/lambda/Debugger/MethodLine.java
+SHA1-Digest: pTQl+RfMqwtLq96T0b5vkInIYbE=
+
+Name: com/lambda/Debugger/MyCollections$CopiesList.class
+SHA1-Digest: wcsacUlKZErr2pOG53wV39jsffk=
+
+Name: com/lambda/Debugger/TTYPane.java
+SHA1-Digest: Kg0Uyxy6sEumkXkEkazyiRoSxaI=
+
+Name: edu/insa/LSD/AttributeVariable.class
+SHA1-Digest: FM2EZez49WAF3oMNNkRxfNkK+ps=
+
+Name: org/apache/bcel/generic/StackProducer.class
+SHA1-Digest: luN0DFWw2G8DXKNYtap6+OCqCiU=
+
+Name: org/apache/bcel/generic/StackInstruction.class
+SHA1-Digest: eQ9qV3vWZagBEfTNIgZ7IiLJ9y4=
+
+Name: com/lambda/Debugger/HashMapEq$HashIterator.class
+SHA1-Digest: I0KmcrM1nZAfRvHUoWZvMA2wAr4=
+
+Name: com/lambda/Debugger/ShadowInt.java
+SHA1-Digest: Dai6M/GOLt4zdftlHO7Vq4nfeY4=
+
+Name: com/lambda/Debugger/Debugger.java
+SHA1-Digest: XOlveCmRYoz/H8+Wen8dRuZMODA=
+
+Name: org/apache/bcel/util/ClassPath$Zip$1.class
+SHA1-Digest: F69xbqyTOEAd/opueFLCC0BsprY=
+
+Name: com/lambda/Debugger/TraceMenuActionListener.class
+SHA1-Digest: Jin9a8uhiwrqlaJBAzEqMyW8afA=
+
+Name: org/apache/bcel/generic/Instruction.class
+SHA1-Digest: FYHjtlCHGkBoAcwhpw9cVCHZFjY=
+
+Name: com/lambda/Debugger/ObjectActionListener.java
+SHA1-Digest: XGXuPavVkN3j5rASWfLtjWuEiy0=
+
+Name: com/lambda/Debugger/Locals2.java
+SHA1-Digest: VQfPcMwyB3WLvKV1pFhbHIxegw0=
+
+Name: org/apache/bcel/classfile/Attribute.class
+SHA1-Digest: kA8djBBGKI2AIkyCIgDtcLWs/L0=
+
+Name: edu/insa/LSD/CatchEvent.java
+SHA1-Digest: Do7ZCKqenG3PtkdUP8kvTg3DHmc=
+
+Name: edu/insa/LSD/VariableValue.class
+SHA1-Digest: OU9EboSTwXkJlu8UXYGqj0mmCeo=
+
+Name: org/apache/bcel/generic/ISUB.class
+SHA1-Digest: GSFpHhZ7t8p+Ca0e7ImiBWVifKg=
+
+Name: com/lambda/Debugger/SleeperSet.java
+SHA1-Digest: /NJIDvNL5i1xmdvlNN4nrNmEUeY=
+
+Name: com/lambda/Debugger/MyArrayList.class
+SHA1-Digest: zb0gtNWjrlV1+6tgAtyl21sOBFs=
+
+Name: org/apache/bcel/generic/BranchInstruction.class
+SHA1-Digest: BusWigL8RD1xa/fmtflG5A2v+ak=
+
+Name: com/lambda/Debugger/MiniBuffer.java
+SHA1-Digest: Wpy2S2bhiKVaTCwT0Yg29Cxs7ks=
+
+Name: org/apache/bcel/verifier/statics/IntList.class
+SHA1-Digest: JgibDqJlkEbWf20ETQeAHPAqlY4=
+
+Name: org/apache/bcel/generic/NOP.class
+SHA1-Digest: h7rxxKQRD2QN3wkVvyO+7NJ4ywE=
+
+Name: com/lambda/Debugger/SourceLine.class
+SHA1-Digest: NdN264yucfCbLXe40zjyuelyBdc=
+
+Name: com/lambda/Debugger/HelpMenuActionListener.java
+SHA1-Digest: s6DuKCWmgzC+hALK/sgUyN9rx2k=
+
+Name: com/lambda/Debugger/ReturnLine.java
+SHA1-Digest: 9qZQL9zpV2hC/dLeVu3KwQfkcgg=
+
+Name: org/apache/bcel/generic/I2B.class
+SHA1-Digest: nFiNs0bfx1M/E+e8WFaQHjBTdb0=
+
+Name: com/lambda/Experiment/QuickSortNonThreaded.java
+SHA1-Digest: f1S1vAAcPbLzM2NxYZd1h6agFkA=
+
+Name: org/apache/bcel/util/JavaWrapper.class
+SHA1-Digest: Ztd3edbYf32jAvlwnLwJ1oaou8s=
+
+Name: com/lambda/Debugger/ThreadListener.class
+SHA1-Digest: GxA+9maBFdR28oQc/ntQZp40lyI=
+
+Name: com/lambda/Debugger/FileLine.java
+SHA1-Digest: 0NnsJi2p2HZ+6i2c1FmuuoHFQFU=
+
+Name: com/lambda/Debugger/MyCollections.java
+SHA1-Digest: rw+i1w1+yStBo6EW4nwk3BDXwxY=
+
+Name: org/apache/bcel/generic/DDIV.class
+SHA1-Digest: pSKkxbJvlBBC3nIvGYGLNzZuZm8=
+
+Name: com/lambda/Debugger/SUPER.java
+SHA1-Digest: 1IwWgHMAht3RhEBJt4LPj6rCe60=
+
+Name: com/lambda/Debugger/ShadowNull.java
+SHA1-Digest: HEUl1aNq+Nt4On4TG072fYNTxnU=
+
+Name: com/lambda/Debugger/ShadowLocal.class
+SHA1-Digest: /42bFMVW7IveHB1/rUbUli6yQyM=
+
+Name: edu/insa/LSD/State.class
+SHA1-Digest: FLTAge4G9R5dyRDYj0Nj5HpiuWY=
+
+Name: com/lambda/Debugger/ShadowClass.java
+SHA1-Digest: jzkv5AoVfIgiawT1OzCxrq+0fL0=
+
+Name: com/lambda/Debugger/Completion.class
+SHA1-Digest: LSIRIB+eSaMZ9JxvvhAVJ5yl9Cc=
+
+Name: com/lambda/Debugger/Locals9.class
+SHA1-Digest: kBxpy8a1C9AxMgyB64NTJTO8u+U=
+
+Name: org/apache/bcel/classfile/Constant.class
+SHA1-Digest: xXqKZBRkCIrmtiPn+DL07alixFk=
+
+Name: org/apache/bcel/generic/DRETURN.class
+SHA1-Digest: 8Y92Zw7nA+rxPxCKMwiPtrortsY=
+
+Name: com/lambda/Debugger/PauseCallback.java
+SHA1-Digest: yoWT/47VR4GV3yg0jGW59b68MpM=
+
+Name: org/apache/bcel/generic/Type$2.class
+SHA1-Digest: uKlL5TEOHToMKBuVY3Ewbr3h5DU=
+
+Name: com/lambda/Debugger/Penumbra.class
+SHA1-Digest: r/r0Vy41xr0oAwhUtclqqn2ZiVM=
+
+Name: com/lambda/Debugger/Locals5.class
+SHA1-Digest: 1CpupWthotHbBH3cYXzcCIsq+Ps=
+
+Name: com/lambda/Debugger/Locals9.java
+SHA1-Digest: tTnTEqjB8snvDJllDLzf+kqulJI=
+
+Name: com/lambda/Debugger/OneNew.java
+SHA1-Digest: F9BkpJHVCiliULIut5FfyAQiz10=
+
+Name: com/lambda/Debugger/D.class
+SHA1-Digest: 5zGNm8C09pa3YVW8jll0dL2zqM8=
+
+Name: edu/insa/LSD/Test.java
+SHA1-Digest: h8s4qj21nNxmu3T+xCzemg6c1Jw=
+
+Name: com/lambda/Debugger/Launch$4.class
+SHA1-Digest: SjAOKQ/ambOjPGfUQMTnHoIezo0=
+
+Name: com/lambda/Debugger/QuickSortNonThreaded.class
+SHA1-Digest: xGX3GGb9Sw9f1Q3JnRaBXTB87eU=
+
+Name: org/apache/bcel/generic/L2I.class
+SHA1-Digest: f+i2oSb+xt5IUxm9IZuIpb8Mxvk=
+
+Name: org/apache/bcel/generic/DUP_X2.class
+SHA1-Digest: 3dCFIvG4s/KKDTDAAG7SZzGfmJQ=
+
+Name: org/apache/bcel/verifier/statics/LocalVariablesInfo.class
+SHA1-Digest: lwL7HIchM6Wfw7D/z8qcYLSvjQ0=
+
+Name: com/lambda/Debugger/Locals1.java
+SHA1-Digest: aOJvn+Vf7dB1/r8ZhcQq6V+csjg=
+
+Name: org/apache/bcel/generic/POP2.class
+SHA1-Digest: RjAStIzckzgvIxsYSkFcTfjWgK0=
+
+Name: com/lambda/Debugger/ShadowPrimitive.class
+SHA1-Digest: U5n066mWRkKGGODSQsWldcjx4zg=
+
+Name: com/lambda/Debugger/Locals6.java
+SHA1-Digest: LYIsh8zi+XZ6u4CL6mSUZVdWi6o=
+
+Name: org/apache/bcel/generic/L2D.class
+SHA1-Digest: T7pxgthv+owUgyXnQPlqW6D0mG0=
+
+Name: org/apache/bcel/generic/ObjectType.class
+SHA1-Digest: KI/sBMTDbKMQgI+wLEgPPK5Owxw=
+
+Name: org/apache/bcel/generic/AASTORE.class
+SHA1-Digest: OzSEDgMJkb1cOmQdoeLDdVI2VmI=
+
+Name: org/apache/bcel/generic/DCMPG.class
+SHA1-Digest: W2JPYhuV4VSJzCjckohCxgcZMJ8=
+
+Name: edu/insa/LSD/DataPattern.class
+SHA1-Digest: JwYpW1IzQ4j6/KCr2u4qkAt2Dp0=
+
+Name: org/apache/bcel/generic/CodeExceptionGen.class
+SHA1-Digest: TQ254Zj0asDgROJ0da34PkOQnWU=
+
+Name: com/lambda/Experiment/QuickSortNonThreaded.class
+SHA1-Digest: 7/P/wMeFM7z1DxPJp9R5noQbqPM=
+
+Name: scripts/aliasesDemo
+SHA1-Digest: 43J3Re+mHhMi44/fTkIu/91OI0U=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedList.class
+SHA1-Digest: Pp659++3H1zFxITh3WkJgHJ/N2Q=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableList$1.class
+SHA1-Digest: lA4aWoBNuTu5CcVMRPJ44r3d5q0=
+
+Name: org/apache/bcel/util/InstructionFinder$CodeConstraint.class
+SHA1-Digest: LlPmlsw22VShEmv1RtDI37XSWJ0=
+
+Name: com/lambda/Debugger/TraceLine1.java
+SHA1-Digest: Gf9RnJlmaP/CevT17aUOvTPStbk=
+
+Name: org/apache/bcel/generic/IF_ICMPLE.class
+SHA1-Digest: 8NC9jSLQc5L+ihUsQ3G/qOzYd6M=
+
+Name: org/apache/bcel/generic/MethodGen$BranchStack.class
+SHA1-Digest: JC+8UKDUlBZAXpRdNmsJVpnfWYg=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableMap.class
+SHA1-Digest: yXCf+aK3xjlfcCQLiCgFwbUpUGg=
+
+Name: com/lambda/Debugger/MyArrays.class
+SHA1-Digest: +jGR2oQl0ob25NF9BLbIsRq89Ak=
+
+Name: org/apache/bcel/generic/MONITORENTER.class
+SHA1-Digest: jGoCRTR4g3LQeUGihz2uN/x7PVg=
+
+Name: org/apache/bcel/generic/IFGT.class
+SHA1-Digest: B76FU1ywwFZWLn3QfMBMqIKb3os=
+
+Name: com/lambda/tests/Outer.class
+SHA1-Digest: uTAjbs+AFWJvmubETcoo7dZLqrA=
+
+Name: org/apache/bcel/classfile/JavaClass$1.class
+SHA1-Digest: 9e+7petb6hc0ToSj7wfQZZTL3F0=
+
+Name: org/apache/bcel/verifier/structurals/Frame.class
+SHA1-Digest: EZJWdpLRt4ZuQEPKsJgKTaB5Vb0=
+
+Name: org/apache/bcel/util/BCELifier.class
+SHA1-Digest: b3tqv8kM12s2r2ciklaG2LE2/Mg=
+
+Name: com/lambda/Debugger/CompletionException.class
+SHA1-Digest: javYA0JrrWLZkj92bKUr87tDvR4=
+
+Name: com/lambda/Debugger/Locals.class
+SHA1-Digest: irry0g5e3LaUbY/k04lr4OCQ1eI=
+
+Name: org/apache/bcel/generic/InstructionTargeter.class
+SHA1-Digest: ESIdUxwL22z4l/LQYPk0sBp6sIs=
+
+Name: org/apache/bcel/generic/ConversionInstruction.class
+SHA1-Digest: qGzgHr9IN+byITlgyLms6hnx2ck=
+
+Name: com/lambda/Debugger/MyHashMap.java
+SHA1-Digest: VdpC1HgrKmvn9DaELdd+m5ruFeI=
+
+Name: org/apache/bcel/generic/BIPUSH.class
+SHA1-Digest: LwAZ3VLngmwvECw9tDyjCIULMTQ=
+
+Name: com/lambda/Debugger/SourceFileFinder$1.class
+SHA1-Digest: a/674b6pY/IWE5FgLbAOBvg9FAQ=
+
+Name: com/lambda/tests/ExcessvelyBigMethod.java
+SHA1-Digest: GVBqoTSVCAznqlv4GM3F6HPrPU0=
+
+Name: edu/insa/LSD/EventPattern.java
+SHA1-Digest: mOxCj8PaPzh6YsU/dj6nkxgoyDQ=
+
+Name: org/apache/bcel/classfile/ConstantString.class
+SHA1-Digest: cL/6El73daMCUaCT6TbacwngbN4=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$5.class
+SHA1-Digest: uXhtOYAWmX7of5JlQHnUcfnEJQM=
+
+Name: org/apache/bcel/generic/NEW.class
+SHA1-Digest: Fwhm/jSscQmIkqwv3m+X+EjHQTc=
+
+Name: org/apache/bcel/classfile/JavaClass.class
+SHA1-Digest: 7+d54izHBf03TfM7KAkP9RNXJ8c=
+
+Name: com/lambda/Debugger/SubList.class
+SHA1-Digest: YblmdwLWBFuAr2uHcd4Zop4tl+M=
+
+Name: org/apache/bcel/generic/InstructionListObserver.class
+SHA1-Digest: ImLbKR6ygakN9Yuypwm++1XhaXk=
+
+Name: org/apache/bcel/verifier/exc/AssertionViolatedException.class
+SHA1-Digest: bIEMzwtfexdTwI+p9QPZhUh5G7M=
+
+Name: com/lambda/Debugger/ShadowByte.class
+SHA1-Digest: gtCQs+E459XD9XxxL9odxyeC+eM=
+
+Name: com/lambda/Debugger/Clock.java
+SHA1-Digest: kjy001eHdQk825toc7ykhCZi/dU=
+
+Name: com/lambda/Debugger/Launch$3.class
+SHA1-Digest: ySD16DGBaJU6lVjWrkCgmVpJfII=
+
+Name: edu/insa/LSD/ChangeEvent.class
+SHA1-Digest: Te54Qeklz4kG15Z5srACiNVr36w=
+
+Name: com/lambda/Debugger/MyArrays.java
+SHA1-Digest: ihzY1Y+Jxmud+jrXj/ODPpfz2kg=
+
+Name: org/apache/bcel/util/SyntheticRepository.class
+SHA1-Digest: ShCJokbH/mGSjMsw6RaibNKIV2k=
+
+Name: com/lambda/Debugger/Locks.class
+SHA1-Digest: wRT27NKSPucclx+L4JeRoZmtZU8=
+
+Name: com/lambda/Debugger/HistoryListMultiple.java
+SHA1-Digest: 1iqN1eJ2IBhpRPja1SvUUSs5jbQ=
+
+Name: com/lambda/Debugger/EventInterface.java
+SHA1-Digest: tSjOcki2Zig6ySaPsLor/5QdSTg=
+
+Name: com/lambda/Debugger/TraceLineAbstractListModel.class
+SHA1-Digest: X2eYpLwoNaigw6UJNRCdoKcwVvQ=
+
+Name: com/lambda/tests/TestMyArrayList.class
+SHA1-Digest: vZuyUap4yRverZ8P+f19CJN5R9I=
+
+Name: docs/Invitation.txt
+SHA1-Digest: iKz16vSP9Aiy4c7G8FisR8G0rbk=
+
+Name: com/lambda/Debugger/TLStack.class
+SHA1-Digest: b30nj+9KG9o7k0Xz/4wMq7UcpQI=
+
+Name: com/lambda/Debugger/ObjectPane.class
+SHA1-Digest: uqSQtygWZsACNMj5C6WYHFDNzzE=
+
+Name: com/lambda/Debugger/DebuggerException.java
+SHA1-Digest: hBrKj4xRbhkUfIUsIV88x5sj1yk=
+
+Name: org/apache/bcel/generic/LSHR.class
+SHA1-Digest: HiNF8//zaFwbIR9qBaRD/zxe684=
+
+Name: scripts/buildFromEclipse
+SHA1-Digest: Ou9ktbYGqAWTCVQqmIW7s+jG3jg=
+
+Name: org/apache/bcel/generic/INEG.class
+SHA1-Digest: 7W62k6Pq8alFxkk40qZKglt/SJo=
+
+Name: com/lambda/Debugger/TLStack.java
+SHA1-Digest: Jh3TVv3dKkybNDFsnACGfG5P30E=
+
+Name: com/lambda/Debugger/Dashes.class
+SHA1-Digest: AkSbQ4/kmllpSCAJHp8Azd2U2cQ=
+
+Name: com/lambda/Debugger/ShadowVoid.class
+SHA1-Digest: tLIwcZnXGkXP8z3QC/f55oiaxYQ=
+
+Name: org/apache/bcel/verifier/statics/Pass2Verifier$InnerClassDetecto
+ r.class
+SHA1-Digest: Wl/mWtG6pqcfXOUhVHd4dtLqzRM=
+
+Name: org/apache/bcel/generic/PUTFIELD.class
+SHA1-Digest: vRo3vdN9rQOKTcCxdq+3FXxuEwk=
+
+Name: com/lambda/Debugger/Ring.class
+SHA1-Digest: rah3/1dAhd4ba8Ppn9QFQaaPl1A=
+
+Name: com/lambda/Debugger/DebugMenuActionListener$1.class
+SHA1-Digest: tm0RJXGDHtL94PPcNiFjAXzM1SQ=
+
+Name: org/apache/bcel/generic/TargetLostException.class
+SHA1-Digest: aleiJsK8toZuBtX5VRtErBTb21s=
+
+Name: com/lambda/Debugger/Locals3.class
+SHA1-Digest: B5Hk6EqRXrjlphSkaxo0dYIVKys=
+
+Name: org/apache/bcel/verifier/statics/Pass1Verifier.class
+SHA1-Digest: zXcjhh1WIFGXVqsZ9LfXB0rZBFs=
+
+Name: org/apache/bcel/generic/FASTORE.class
+SHA1-Digest: v8Kfhk9SLd9mpM0ZFRIpY5r5svo=
+
+Name: com/lambda/Debugger/SideEffects.class
+SHA1-Digest: NpLNZjLEPlf6mPXjMMvWrzpoGI4=
+
+Name: com/lambda/Debugger/Penumbra.java
+SHA1-Digest: 2QoZEgtd4x8UO3ccZLGITDHP+7U=
+
+Name: edu/insa/LSD/ChangeInstanceVariableEvent.java
+SHA1-Digest: 7IbDRpT6xpuo1HICZRs4fHy1jmc=
+
+Name: org/apache/bcel/verifier/structurals/LocalVariables.class
+SHA1-Digest: YLv/HJtQE5kCOxuQMYG/y5fzkYI=
+
+Name: com/lambda/Debugger/ThisPane.java
+SHA1-Digest: 1Pak9M4J1m7ZMhnZWMycXA3/8gc=
+
+Name: com/lambda/Debugger/StopButtonActionListener.class
+SHA1-Digest: 8pDgSAmszJ8r5JzOgabDNoaiwm8=
+
+Name: Microsoft/debug.bat
+SHA1-Digest: wlkHp1bVBNYhcn/VIivm1gkTN9U=
+
+Name: com/lambda/Debugger/StackListener.java
+SHA1-Digest: T2j7GMZ7Iv9GQa1nHM7lcljVQYg=
+
+Name: images/NextLine16.gif
+SHA1-Digest: 1VdbtMpf+Wn9GatfhUs7hBgUZ8g=
+
+Name: org/apache/bcel/verifier/structurals/Pass3bVerifier$InstructionC
+ ontextQueue.class
+SHA1-Digest: vDyXXjxkEOnKt8Zk1eCey8Hihuw=
+
+Name: com/lambda/Experiment/QuickSort.class
+SHA1-Digest: WP7fPgaaVrnTmfHtTtrGdVLMuWs=
+
+Name: org/apache/bcel/classfile/PMGClass.class
+SHA1-Digest: eWNTRZ2hYhfTrSkg+F3Q9KrFAQg=
+
+Name: org/apache/bcel/classfile/ConstantInteger.class
+SHA1-Digest: 1OpFJlkmTa9hVD6MFCy9+B1N0r0=
+
+Name: org/apache/bcel/generic/NamedAndTyped.class
+SHA1-Digest: tMGGuKWikOysxHY+QK+P4/6rTuQ=
+
+Name: docs/ODB1.png
+SHA1-Digest: E3NDujSHAwdMYu9U59rDJs1bG/k=
+
+Name: org/apache/bcel/generic/PopInstruction.class
+SHA1-Digest: J9zLhbrE+wWkxRZtxNLx+K2ECPA=
+
+Name: com/lambda/Debugger/SourceLine.java
+SHA1-Digest: A6VloRq9hthZdwkJ46jgggebwI0=
+
+Name: org/apache/bcel/generic/BALOAD.class
+SHA1-Digest: iQtIg485Rsoj1fVzZSAMmySc6Lk=
+
+Name: com/lambda/Debugger/Helper.class
+SHA1-Digest: JnYQ5aM6r7bEbvKvLhmGY6cUuJ8=
+
+Name: com/lambda/Debugger/DoubleClickJList.java
+SHA1-Digest: YnAsndTuP4B6F0MmnA/ismnwR8U=
+
+Name: org/apache/bcel/generic/ExceptionThrower.class
+SHA1-Digest: PuA4GeuErvbSqZf+KfjGh22ubX4=
+
+Name: com/lambda/Debugger/DebugifyFiles.java
+SHA1-Digest: 7hmRgqtAKFUzKC3G7jj+zC6CPZA=
+
+Name: org/apache/bcel/generic/LUSHR.class
+SHA1-Digest: Jp28wTi9OlvfJFSL00ti1QkTjF0=
+
+Name: org/apache/bcel/util/BCELComparator.class
+SHA1-Digest: ar/dMojrC9RoEHmlAMZDjxxGEog=
+
+Name: org/apache/bcel/generic/LineNumberGen.class
+SHA1-Digest: 96su/XWy3Q2M94VVwbcskRaOXdQ=
+
+Name: com/lambda/Experiment/QuickSortRunnable.class
+SHA1-Digest: LnOxDHB4Qd70C884L2GZuJudBCY=
+
+Name: com/lambda/Debugger/DebuggerActionListener.java
+SHA1-Digest: ihVTmj6mXCXtU3QRyTuoQ055+UU=
+
+Name: com/lambda/Debugger/InstrumentorForCL.class
+SHA1-Digest: zcQ6LZ1MyHU5JNf0zj0K8RWEBng=
+
+Name: org/apache/bcel/verifier/exc/StructuralCodeConstraintException.c
+ lass
+SHA1-Digest: xUXuGVvMGUndcNtr/uM5qUiFzjs=
+
+Name: com/lambda/Debugger/TraceActionListener.class
+SHA1-Digest: 5i3+9qRKlTHnbZiGoK52DhSD0ZQ=
+
+Name: com/lambda/Debugger/Locals8.java
+SHA1-Digest: NbwB5V//hT0GtOaewHqsYcR0Z+g=
+
+Name: org/apache/bcel/classfile/CodeException.class
+SHA1-Digest: dhcyEzw6OwEzqkTdNRH/p/hOwDA=
+
+Name: images/forward16.gif
+SHA1-Digest: lOJQjWGsl25s3XALf6fmy3mCbz8=
+
+Name: org/apache/bcel/verifier/exc/StaticCodeInstructionOperandConstra
+ intException.class
+SHA1-Digest: Qw78h1Gi53jfGmbFcluE9zlQyqc=
+
+Name: edu/insa/LSD/ObjectIterator.class
+SHA1-Digest: TBbZdXZCbB0hD1NM6n3UL+9hyQU=
+
+Name: org/apache/bcel/verifier/NativeVerifier.class
+SHA1-Digest: HONaFr99H93MaDK5O46uuxhpFKA=
+
+Name: com/lambda/Debugger/TraceLine0.java
+SHA1-Digest: Bm4sUzdOIcvqn/ESmX8+t55yucg=
+
+Name: com/lambda/Debugger/HistoryListTripleton.java
+SHA1-Digest: RAE2hmPfw9ZrRJplJZ+8W93qt5o=
+
+Name: org/apache/bcel/generic/IF_ICMPNE.class
+SHA1-Digest: KOp9DM1hvCZYHJq8JC7ljmwoveE=
+
+Name: com/lambda/Debugger/MyHashtable.java
+SHA1-Digest: PcMwV7hjPr2pTJkAIGebHsjdNs8=
+
+Name: edu/insa/LSD/StaticState.java
+SHA1-Digest: 5JqIdYaaM7RkBZfpLM29yWZRJZA=
+
+Name: org/apache/bcel/classfile/AttributeReader.class
+SHA1-Digest: 0bVg0EazyyIi7yhsrHXmG/DMhNo=
+
+Name: com/lambda/Debugger/TraceLineReusable.java
+SHA1-Digest: ss4FEUSGPfgJLSgmVyzwy8gk2GQ=
+
+Name: com/lambda/Debugger/LocalsPane.java
+SHA1-Digest: 7FhAw+O4BkOTpVT9udVUqBGo35U=
+
+Name: com/lambda/Debugger/VectorD$1.class
+SHA1-Digest: Omrcb951HjhV8Cly+6RNj/++Hfk=
+
+Name: edu/insa/LSD/AttributeVariable.java
+SHA1-Digest: o+E7bFSyt1AOyS6UA7lCtmHgk1E=
+
+Name: org/apache/bcel/generic/Visitor.class
+SHA1-Digest: ulNJR2IMGqtmRdV+xdV06uvUqiE=
+
+Name: org/apache/bcel/generic/TypedInstruction.class
+SHA1-Digest: 2z0+96K8nqstPzUNVTgQ2oxuQdU=
+
+Name: org/apache/bcel/verifier/structurals/InstructionContext.class
+SHA1-Digest: FBHSAtagkJNz+0lQIY2xzMqFrsM=
+
+Name: com/lambda/Debugger/ShadowException.class
+SHA1-Digest: 25L6FBuHKucPt5RXbqGp8W68Zyc=
+
+Name: images/first16.gif
+SHA1-Digest: 6truyDKR8rty+lhT+o/QL9LZagw=
+
+Name: org/apache/bcel/verifier/GraphicalVerifier.class
+SHA1-Digest: C4uKL+HnR0vXSWLqH6WDddyF/Xw=
+
+Name: org/apache/bcel/util/ClassVector.class
+SHA1-Digest: WNHVyjk6J7dBaQ4yRpz+qZUrVqQ=
+
+Name: com/lambda/Debugger/LockerPair.java
+SHA1-Digest: FVWxrmSMTvUEFxpyN904JfbGDu8=
+
+Name: org/apache/bcel/generic/ICONST.class
+SHA1-Digest: KsfB8d2Xx86u+Aymnbu1wpY8hBc=
+
+Name: com/lambda/Debugger/MyCollections$EmptySet$1.class
+SHA1-Digest: M9UfnhWwWGhB4BIjB4SAv6ePGDE=
+
+Name: com/lambda/Debugger/MyHashtable.class
+SHA1-Digest: vIBycgk8ydbpifDrlZP+mdlrW2Q=
+
+Name: edu/insa/LSD/ObjectIterator.java
+SHA1-Digest: DWyRJUCVw/dWrLFRjwvTmSuUqCk=
+
+Name: edu/insa/LSD/ReturnEvent.java
+SHA1-Digest: Ne/LGVFHM2N+A/2rJG9evIwt7Wo=
+
+Name: com/lambda/Debugger/HistoryList.class
+SHA1-Digest: 32AY8gcAznjj0URmGcI32j7M434=
+
+Name: org/apache/bcel/generic/PUSH.class
+SHA1-Digest: JL86Y1OXgjNnnvC3L/UTyY8yBM4=
+
+Name: com/lambda/Debugger/Launch.class
+SHA1-Digest: N0NdSZ81UlmJzhmuoGVWxxd08t0=
+
+Name: com/lambda/Debugger/DebuggerCommandHistory.class
+SHA1-Digest: pG51wlsLEAx65jABoU9bJhjWbko=
+
+Name: org/apache/bcel/verifier/TransitiveHull.class
+SHA1-Digest: 57THz81YKnSAJdio3EGKcuP+d54=
+
+Name: org/apache/bcel/util/ClassPath$Zip.class
+SHA1-Digest: sL6FqVutkVWzL6QwTcoucquGNqk=
+
+Name: org/apache/bcel/generic/SWITCH.class
+SHA1-Digest: tJCaRPuBZMjRfRErVw9EAbbAnk8=
+
+Name: org/apache/bcel/generic/ClassGenException.class
+SHA1-Digest: pTvmJ2eVMjUwCKOihcZZmVu/Sxs=
+
+Name: com/lambda/Debugger/CodePane.class
+SHA1-Digest: w/sedNgfJU0myIXG5gPMuW14m+M=
+
+Name: images/down16.gif
+SHA1-Digest: gTiSnn3+gt7T6abHa2FDLp2C1us=
+
+Name: com/lambda/Debugger/SpecialFormatter.java
+SHA1-Digest: DbBCA+gWlaw6QDMeCcSS5mQFHak=
+
+Name: com/lambda/Debugger/MyVector.java
+SHA1-Digest: j2jUY6q2BWXxO3taElt7mGWaCU8=
+
+Name: org/apache/bcel/generic/DSUB.class
+SHA1-Digest: h+wEnvapacHbKe9qdRoUeMsvasI=
+
+Name: com/lambda/Debugger/TraceItem.class
+SHA1-Digest: SCIZnV40WarsWwjpF7bnTGwJeug=
+
+Name: org/apache/bcel/util/ClassPath$PathEntry.class
+SHA1-Digest: 2sSrL5PbRzs/WsRtaST15kKu0U0=
+
+Name: com/lambda/Debugger/SpecialTimeStampFormatter.class
+SHA1-Digest: O8Hq+6kp0EllOYvCXhKyGHdsLPc=
+
+Name: edu/insa/LSD/LockEvent.class
+SHA1-Digest: F7B0xMzV+TPxOWOiAsAwB9Lu+Hc=
+
+Name: com/lambda/Debugger/TraceLine7.java
+SHA1-Digest: nrBD2jZUqxtWLjOOdCMfYteu8Sw=
+
+Name: com/lambda/Debugger/TraceLine6.class
+SHA1-Digest: 2k6sGW1GWH3PEkY22xaISlaPEIs=
+
+Name: edu/insa/LSD/TestCallback.java
+SHA1-Digest: DGmVBjp0v2mksw+dqWNJhPSgqTg=
+
+Name: edu/insa/LSD/Attribute.java
+SHA1-Digest: No6hS7qWsokvQVzv576BRZ0SYEU=
+
+Name: edu/insa/LSD/FGetParser.java
+SHA1-Digest: uXyPDSHJxwUqPLKivCnnhVlDqgg=
+
+Name: org/apache/bcel/classfile/ConstantCP.class
+SHA1-Digest: jdSEWx1xuHB6ey+t528x9Do9/LA=
+
+Name: org/apache/bcel/classfile/ConstantLong.class
+SHA1-Digest: yihllSQ+HF071ZIjgm3+hBGS+0o=
+
+Name: com/lambda/Debugger/DisplayVariables.java
+SHA1-Digest: B0z4/Gf22lSuDmohezLoShdUjfM=
+
+Name: com/lambda/Debugger/Locals.java
+SHA1-Digest: Qzit5UgWtMrTRcSGv40jz/Bn38k=
+
+Name: org/apache/bcel/classfile/AccessFlags.class
+SHA1-Digest: JatZLYVY8xaDJ5+r3xvNfd8jCM0=
+
+Name: org/apache/bcel/classfile/Unknown.class
+SHA1-Digest: stteYKEsAn/HGLiRpOrbOT426CI=
+
+Name: com/lambda/Debugger/ThreadActionListener.class
+SHA1-Digest: SM3Mka7xWPlpNdOq8JKTTXxKLBY=
+
+Name: org/apache/bcel/generic/LREM.class
+SHA1-Digest: g1sF1K9z5iY7ZI16f8t7FQHipNY=
+
+Name: org/apache/bcel/generic/LCONST.class
+SHA1-Digest: IxBpJJpP5QVpV+kJahH++bxvfE4=
+
+Name: edu/insa/LSD/Attribute.class
+SHA1-Digest: Hit4QCY48a++TZQ27su6Cv9eITM=
+
+Name: org/apache/bcel/generic/IF_ACMPNE.class
+SHA1-Digest: nhO1/SxsLCz9fkrfJ1rX58DEjmU=
+
+Name: com/lambda/Debugger/Demo.java
+SHA1-Digest: hNuhXbIMd3Rw5Z2VdfSwFtoYOT8=
+
+Name: com/lambda/Debugger/MethodLine.class
+SHA1-Digest: GGSzeoOALPqltogyCquU9N/GexI=
+
+Name: org/apache/bcel/generic/LDC.class
+SHA1-Digest: k35aTg7PS0ubg/PYisv3TeknK5k=
+
+Name: com/lambda/Debugger/TraceLine.java
+SHA1-Digest: xGe+hbT0a34EzZhnfLCRvzL/WNw=
+
+Name: org/apache/bcel/generic/JsrInstruction.class
+SHA1-Digest: QAqKLYi0+b/ZdhgorzFjfWMbxYk=
+
+Name: org/apache/bcel/classfile/Constant$1.class
+SHA1-Digest: gCMYyB10XWNg3Lqv92ANxz4QhHQ=
+
+Name: org/apache/bcel/generic/IAND.class
+SHA1-Digest: ml9y+KiYpZQB9UxaUh2uQUrLRDw=
+
+Name: org/apache/bcel/generic/LDC2_W.class
+SHA1-Digest: VzggxLuprTsevRL+5UPQlzgOP6Y=
+
+Name: com/lambda/Debugger/CatchLine.java
+SHA1-Digest: bQ91QasnIaGTeWaV1lchHlRZRZM=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableMap$UnmodifiableEn
+ trySet.class
+SHA1-Digest: xXlb6Q0+0s2oxz/hBK1plDjAdAo=
+
+Name: org/apache/bcel/verifier/structurals/Subroutine.class
+SHA1-Digest: oBRpH192g0FK77zwFKnn6oCAlPk=
+
+Name: edu/insa/LSD/ChangeLocalVariableEvent.java
+SHA1-Digest: QmAiLbc7VO9wAMis3LJ7SvYeHow=
+
+Name: org/apache/bcel/classfile/Visitor.class
+SHA1-Digest: zqg2Yh1cQ7UsazPfX4m/dmnUF5E=
+
+Name: docs/ODBUserManual.html
+SHA1-Digest: 9u61ZyF4VD15i1B8Qv3HfRPBi9Y=
+
+Name: Microsoft/debugify.bat
+SHA1-Digest: ChvNysCHGUXz+bC3v68+Md1g/Mg=
+
+Name: edu/insa/LSD/ChangeLocalVariableEvent.class
+SHA1-Digest: maQ2cNEIvJ4bf4pMZAgNgVJmi3A=
+
+Name: edu/insa/LSD/Operator.class
+SHA1-Digest: m0MyY5yA6daZJH0o1s3PFY4BqlA=
+
+Name: org/apache/bcel/generic/LRETURN.class
+SHA1-Digest: jjqi5U41k0ZzmMw+zmKC0RMUQII=
+
+Name: com/lambda/tests/LoadOrderTestSub.class
+SHA1-Digest: xTs70XtHuH9cjeoIvEcm2cZ30SE=
+
+Name: com/lambda/Debugger/ShadowVoid.java
+SHA1-Digest: rgQgqq8UNVnUwmsNb4ND61Lt4d0=
+
+Name: com/lambda/Debugger/RunMenuActionListener.class
+SHA1-Digest: FHqYe+XgnesuxPHAThMvjpXyUbw=
+
+Name: images/last16.gif
+SHA1-Digest: He80W7i4RPNzWe60MIStKJNTWCY=
+
+Name: com/lambda/Debugger/CodeActionListener.class
+SHA1-Digest: oHCBFUWnCSrRDAOQ6dA1MonasxE=
+
+Name: org/apache/bcel/verifier/structurals/InstConstraintVisitor.class
+SHA1-Digest: bKAn3uxP8At5QoWd/owt8zhhNwU=
+
+Name: org/apache/bcel/generic/SIPUSH.class
+SHA1-Digest: d9LodPjosoHEsczRmFNwbCWKZ9E=
+
+Name: com/lambda/tests/InnerClassTest.class
+SHA1-Digest: y5FDzyJPaGnaQQnMQlnALLLM0Fk=
+
+Name: org/apache/bcel/classfile/InnerClass.class
+SHA1-Digest: vsWqcdUf2TlRNk+RvS5mBRq/dZQ=
+
+Name: org/apache/bcel/generic/RETURN.class
+SHA1-Digest: ur23/p3A6I6H7y8Dlbj+MBL+QTQ=
+
+Name: com/lambda/Debugger/CodePane.java
+SHA1-Digest: PwcoCJ0siYzjPl13BsTE3V2kM90=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedSet.class
+SHA1-Digest: roYjQWlI3dJ7vCp9EdPumTXWefg=
+
+Name: org/apache/bcel/generic/GETSTATIC.class
+SHA1-Digest: Dh3/QzPQg//uudtSZ6ygV2lTA7A=
+
+Name: org/apache/bcel/generic/LoadClass.class
+SHA1-Digest: j7zgJ1HIC9KqU0yux7JNDHT/YEE=
+
+Name: com/lambda/Debugger/MyCollections.class
+SHA1-Digest: OQtRc0NbG9kN1xrxaYJFvnB/Z9o=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableSet.class
+SHA1-Digest: 6apLPnBKPriT+0FNYu6c44Z5nBE=
+
+Name: com/lambda/Experiment/Manuscript.txt
+SHA1-Digest: sU6zn9Txf7tV43tJrr3i96UfkNw=
+
+Name: docs/ODB1.jpg
+SHA1-Digest: 8KoHkZAkS1j8U9qiW9UpY2UIElI=
+
+Name: com/lambda/Debugger/HelpMenuActionListener.class
+SHA1-Digest: u4MI8cw4uoSpcVaf4Nq/kkk5t5k=
+
+Name: com/lambda/Debugger/MiniBuffer$3.class
+SHA1-Digest: Fj35yoBnbArd/gx0RbkjJJYsfxY=
+
+Name: com/lambda/Debugger/ValueChooser$3.class
+SHA1-Digest: eoL6aqjkx6Vf2vxvYZCpYxd1h9k=
+
+Name: org/apache/bcel/generic/GOTO_W.class
+SHA1-Digest: YZbpYi3FyK85Zso+smOzPK7bXnE=
+
+Name: edu/insa/LSD/StackFrameImpl.java
+SHA1-Digest: NQYY92zThUpwJ0Bvthx1LveMm8g=
+
+Name: com/lambda/Debugger/SourceFileFinder$2.class
+SHA1-Digest: +EX+rtM9VEd8gVirRbc0qtMjTM8=
+
+Name: org/apache/bcel/generic/PushInstruction.class
+SHA1-Digest: pIYG1zDne+kGevXkszcuW/RkWtM=
+
+Name: com/lambda/Debugger/Defaults.class
+SHA1-Digest: d/W3gQRON5XvWTsVvii9s3+BKek=
+
+Name: docs/notes
+SHA1-Digest: L0W7nVCeFbh22eTcb6/X9AO8z7Y=
+
+Name: com/lambda/Experiment/Manuscript.txt.clean
+SHA1-Digest: /EEbdX6gjIT74fIePVcmbiALlMw=
+
+Name: org/apache/bcel/generic/LLOAD.class
+SHA1-Digest: eqWi8hfZAg4ccBkQZdb/z2356n4=
+
+Name: org/apache/bcel/generic/IF_ICMPEQ.class
+SHA1-Digest: E6N+0Bfc3ZtzAH3ecmUuicjxPUI=
+
+Name: com/lambda/Debugger/HistoryListSingleton.java
+SHA1-Digest: ORSPEnvh0s3fMtyf+mnurPf7z5A=
+
+Name: com/lambda/Debugger/DisplayVariables.class
+SHA1-Digest: imHOQ6kQezXVeh3uU6z5fNLh2W8=
+
+Name: scripts/commands.sed
+SHA1-Digest: 2+wceAYGPVwBdKshBOTGhxWm5FQ=
+
+Name: com/lambda/Debugger/Locals8.class
+SHA1-Digest: vMi/wHpn7ygyKx0d3JOvlW3S+Yk=
+
+Name: org/apache/bcel/generic/FieldGen$1.class
+SHA1-Digest: 87ASCt8nlI+oTe3i9WGmZbe/ZMw=
+
+Name: com/lambda/Debugger/DebuggerExit.java
+SHA1-Digest: YuArH7huQNspno9r/Oezd5u5638=
+
+Name: org/apache/bcel/generic/SALOAD.class
+SHA1-Digest: OVioMEFiqg2Evp4leucG6LBBfew=
+
+Name: org/apache/bcel/generic/CALOAD.class
+SHA1-Digest: jbyJbjyAPScqU51qms0IW2YNY/g=
+
+Name: org/apache/bcel/generic/LDC_W.class
+SHA1-Digest: XUPQ7teB97HCl1YqhAK2UeBYwug=
+
+Name: com/lambda/Debugger/SpecialFormatters.java
+SHA1-Digest: RJCUxPsLbroGD5sF3QK+Iul1MZM=
+
+Name: com/lambda/Debugger/ClassObjectFilter.class
+SHA1-Digest: ab/vLITBoYoT6EgG78Yv2HEN/ME=
+
+Name: Microsoft/testload.bat
+SHA1-Digest: /gA6WSKrH++/mCbQSvu1+AVUDoY=
+
+Name: org/apache/bcel/verifier/VerifyDialog$1.class
+SHA1-Digest: zI5sj97/8Lobj+D05bXFY1bqAY8=
+
+Name: scripts/buildDD
+SHA1-Digest: fitZg7VdKPZzBnry01nk4F5Wvhc=
+
+Name: org/apache/bcel/generic/SASTORE.class
+SHA1-Digest: QDUaarO54ExAlQr/z8NeFOKl+iY=
+
+Name: org/apache/bcel/classfile/ConstantDouble.class
+SHA1-Digest: rKIyZdUX7UvkSL3tlqNFtLtrC6c=
+
+Name: com/lambda/Debugger/FileMenuActionListener.class
+SHA1-Digest: AxQE1CrF/I72tQQtxzcZlNe+rgg=
+
+Name: com/lambda/tests/PackageSubTest.class
+SHA1-Digest: EABQjMwISvnQnavMSe5aDIfA6GQ=
+
+Name: com/lambda/Debugger/.ddebuggerDefaults
+SHA1-Digest: 4Sb5fwgqzKz3AfJCBIdTjSS1/Kk=
+
+Name: org/apache/bcel/generic/FLOAD.class
+SHA1-Digest: olZEAPLEEsIqgffj2bbA9lE3P38=
+
+Name: org/apache/bcel/generic/IRETURN.class
+SHA1-Digest: 9en2ohRFMmXXZlTNOC/XV9O8ev0=
+
+Name: org/apache/bcel/classfile/ConstantPool.class
+SHA1-Digest: anBk8k0IQpvBfiBeACsMropjPOQ=
+
+Name: edu/insa/LSD/RecordedState.class
+SHA1-Digest: G5AlNU/ZozNpo3XbSes6h5JOdt0=
+
+Name: org/apache/bcel/generic/LAND.class
+SHA1-Digest: 6LvrsFCDijDzoVRkG0j9GK9HwEs=
+
+Name: edu/insa/LSD/State.java
+SHA1-Digest: 8AFvznE9hN/fjpVrufjou1C+BMU=
+
+Name: com/lambda/Debugger/ThreadPane.java
+SHA1-Digest: n/Y9SbEebH5gGSrXyye4LqYEC1o=
+
+Name: edu/insa/LSD/DataPattern.java
+SHA1-Digest: WO7W7WYvy0A1nmcPqwxNkLYIReI=
+
+Name: Microsoft/debugn.bat
+SHA1-Digest: WVlK3ofgLv80/T4ZRlN995xvc6M=
+
+Name: com/lambda/Debugger/DebuggerCommand.java
+SHA1-Digest: /fv+cRdJ2KtttX+Ow7ZtpoOIH/Y=
+
+Name: edu/insa/LSD/ChangeEvent.java
+SHA1-Digest: Ul5p/Wl/uojHSZ2OvBNL8gH3PIA=
+
+Name: com/lambda/Debugger/DemoString.class
+SHA1-Digest: TjAQeAOIa2iPrpCfqHngTusmcZ8=
+
+Name: com/lambda/Debugger/ValueChooser.class
+SHA1-Digest: WebeK3fw4e6dgH+VrZfXr/ZDPOQ=
+
+Name: org/apache/bcel/generic/InvokeInstruction.class
+SHA1-Digest: qfvNJLicUaZUkGi2hxmYtqjIQ2g=
+
+Name: org/apache/bcel/generic/ATHROW.class
+SHA1-Digest: nvRtrgGQutXp66EujatUjY4DbKw=
+
+Name: org/apache/bcel/generic/IFNONNULL.class
+SHA1-Digest: Eq+Cj0ry62mCSkMSK6UnZOCbpLg=
+
+Name: org/apache/bcel/generic/InstructionConstants$Clinit.class
+SHA1-Digest: U6JbDKX0YyRMLiTiSRlMHGVe6t0=
+
+Name: org/apache/bcel/verifier/VerifierAppFrame$6.class
+SHA1-Digest: o8unqV9w6ve7cmPthi7IaWW5xhE=
+
+Name: org/apache/bcel/generic/I2F.class
+SHA1-Digest: ptZwWmHd3h3ULTA+EuwEe7fa6ZQ=
+
+Name: com/lambda/Debugger/MyHashMap.class
+SHA1-Digest: 7dwfn5pHZy7RGS14031kD0P+TF8=
+
+Name: com/lambda/Debugger/ShadowFloat.java
+SHA1-Digest: r/aojRkK6FnDkQPC3IGX0hplIBs=
+
+Name: images/back16.gif
+SHA1-Digest: EfvOVV7E1b6Q/n+9YlR9weDF1mM=
+
+Name: com/lambda/Debugger/DebugifyingClassLoader.class
+SHA1-Digest: u8GIfkgk5aSBRmJbfhcecAryF8U=
+
+Name: com/lambda/Debugger/HashMapEq$1.class
+SHA1-Digest: abZ3TxBxidAP5khNqAuPhI+xeI8=
+
+Name: org/apache/bcel/util/Repository.class
+SHA1-Digest: HbQBbQ744Cd61YPxbjGpN0kN9FY=
+
+Name: com/lambda/tests/TestMyArrayList.java
+SHA1-Digest: ICY2JmSYlu5NJv65BTrQjZNHZ1g=
+
+Name: images/forward.gif
+SHA1-Digest: vbxbhEy9St5is+TNzGTLtbT5uaY=
+
+Name: org/apache/bcel/verifier/structurals/Pass3bVerifier.class
+SHA1-Digest: KbfBbbe6wVNtvY3itty3FvDYWFY=
+
+Name: docs/ODBDescription.html
+SHA1-Digest: Q1HoA5PNRNqr6HyLlyNAf1o0A2I=
+
+Name: org/apache/bcel/generic/FCMPL.class
+SHA1-Digest: LpeAgHy80GZZY4mm3FZJSG5wGKY=
+
+Name: org/apache/bcel/generic/IFLE.class
+SHA1-Digest: GS1BhfgyZrOZiTKTBXQhFd/m6kk=
+
+Name: com/lambda/Debugger/RewriteString.class
+SHA1-Digest: GFCMOUCihLdd9cp8kEA5oj+ozm4=
+
+Name: com/lambda/Debugger/TraceLine7.class
+SHA1-Digest: IGjP7891mRsSBOfqT3PQhhlqjbo=
+
+Name: org/apache/bcel/generic/I2L.class
+SHA1-Digest: pPngficdaTSsdryVAp0TBOA2/d0=
+
+Name: com/lambda/Debugger/LocksList.java
+SHA1-Digest: rxlHbIwg9J0Iub9YGiWSn5gY2xk=
+
+Name: edu/insa/LSD/ReturnEvent.class
+SHA1-Digest: GVl3C4ulBG7PP1Zuazu6TvtMhYk=
+
+Name: com/lambda/Debugger/Analysis.class
+SHA1-Digest: I6S/VmjNHIbTWar0Jkt7F2RL5ig=
+
+Name: org/apache/bcel/generic/LocalVariableInstruction.class
+SHA1-Digest: CmAWCdzBG/mMJ20YbLRd27CYkTc=
+
+Name: org/apache/bcel/classfile/FieldOrMethod.class
+SHA1-Digest: stsUj2Jo3NVYmh0wra839QZcvRo=
+
+Name: com/lambda/Debugger/ShadowException.java
+SHA1-Digest: w/h4KqoMNWbaNZpQtC7UOZh8Cmg=
+
+Name: com/lambda/Debugger/MyAbstractCollection.java
+SHA1-Digest: Pkel8t0gehIpBYmkcBFdHX9X1Vk=
+
+Name: org/apache/bcel/util/ClassSet.class
+SHA1-Digest: qWUJtPMSXiPHrrkgCMdzOk3BzCE=
+
+Name: org/apache/bcel/generic/FMUL.class
+SHA1-Digest: 53OhJkqc8o5sXfwYimvUMY7m81E=
+
+Name: com/lambda/Debugger/MiniBuffer$2.class
+SHA1-Digest: taR4RJZ9rfXMrxSl4sxzduNnkaw=
+
+Name: com/lambda/tests/LoadOrderTest.class
+SHA1-Digest: 0xPu/pKYpdc6/vMdKKXhv8laZVQ=
+
+Name: com/lambda/Debugger/ThrowLine.class
+SHA1-Digest: pv4LzojmEvjpREzCKFMhQDkTn7c=
+
+Name: com/lambda/Debugger/Locals0.java
+SHA1-Digest: W7Ga9KFTG4pwltnHN1GsGgR6uzc=
+
+Name: com/lambda/Debugger/MyObj.java
+SHA1-Digest: tia2uo5ddaUU7T95VtsX/BYA9VY=
+
+Name: com/lambda/Debugger/TraceLine0.class
+SHA1-Digest: PeRsXc8KmlqrJDr2xVx4hcULugY=
+
+Name: org/apache/bcel/generic/ReferenceType.class
+SHA1-Digest: aEefVow4t17anvmTYUuFZV+itoo=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedCollection.class
+SHA1-Digest: 4IRpXdcVg/OouDvr1I+9JWTEZ3k=
+
+Name: aliases
+SHA1-Digest: QIhYtjl8rM/HBVqd8wIKmWh0vsU=
+
+Name: org/apache/bcel/generic/DCONST.class
+SHA1-Digest: huCmrgrbZxvbnNP4aFSAc21e3zQ=
+
+Name: com/lambda/Debugger/TLCounter.class
+SHA1-Digest: 1VQXNBS1GHLYJ3dpP1f4ykYDH3s=
+
+Name: org/apache/bcel/generic/FieldGen.class
+SHA1-Digest: h2Kn5UESRZvLAIwBZRqiiO442IU=
+
+Name: org/apache/bcel/generic/ARRAYLENGTH.class
+SHA1-Digest: iKDLVfO2iqCys8gKutgo4mgM20Q=
+
+Name: edu/insa/LSD/StaticObjectIterator.class
+SHA1-Digest: XB24tutv3tybGCqViNJHbURAMgk=
+
+Name: org/apache/bcel/generic/Type$1.class
+SHA1-Digest: ES6O19u8N35iwspM7uQF92//0h0=
+
+Name: org/apache/bcel/verifier/statics/LONG_Upper.class
+SHA1-Digest: CeDSphuAP6CNr6WRUl2F+orkbRQ=
+
+Name: com/lambda/Debugger/MyCollections$ReverseComparator.class
+SHA1-Digest: d/GZtVUSdhfYBJALN0RjyjDnjkQ=
+
+Name: org/apache/bcel/generic/InstructionList.class
+SHA1-Digest: 8OCTGZ9F63dLatWxViulrs6R/Vc=
+
+Name: edu/insa/LSD/ChangeArrayEvent.java
+SHA1-Digest: H/imMBJ1L5MyAzTlYHqz2cZi/aw=
+
+Name: org/apache/bcel/generic/ArithmeticInstruction.class
+SHA1-Digest: Rh6p0bf3ArIrm9fdZ51l4Wo6MzQ=
+
+Name: scripts/aliasesLocal
+SHA1-Digest: VNsp/syoQWsrqeV14kjjoQdlKXQ=
+
+Name: com/lambda/Debugger/DebugifyFiles.class
+SHA1-Digest: vOazTIwpmDLyAWDLeWQTIJF65Fs=
+
+Name: docs/Controller.jpg
+SHA1-Digest: L7K30VNGtLnIg1/WHw0dVy9AaD8=
+
+Name: org/apache/bcel/generic/NEWARRAY.class
+SHA1-Digest: Zn2K3rxUKLBki1a4FpDD8zJKWrU=
+
+Name: com/lambda/Debugger/LocalsActionListener.class
+SHA1-Digest: zs+mabdjjf54gk5eYbAOelCoWwQ=
+
+Name: com/lambda/Debugger/UnknownValue.class
+SHA1-Digest: r4hz2SoA4l4chW3nN3Q9ZJHRTvA=
+
+Name: com/lambda/Debugger/Locals3.java
+SHA1-Digest: VI2Vz6ILsqCrYNS69DcYkSVtPjw=
+
+Name: com/lambda/Debugger/ObjectPane$1.class
+SHA1-Digest: s9ujawUc6Gyw7DhD7t2oim9GCNg=
+
+Name: com/lambda/Debugger/RewriteString.java
+SHA1-Digest: ihUGk9Y5ADMvyJ4/rVEkFsGBxtc=
+
+Name: com/lambda/Debugger/TestLoadClass.java
+SHA1-Digest: I9j6oSzEkFlItMEyP250xu6coic=
+
+Name: org/apache/bcel/generic/D2I.class
+SHA1-Digest: JxnizxCo3sS8UZDlhW+5fyAA/TI=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableList.class
+SHA1-Digest: 8AUtG6a8A7bbCCO4B5c1MUZ9/ZQ=
+
+Name: com/lambda/Debugger/MyCollections$SynchronizedSortedMap.class
+SHA1-Digest: fb0VxDZ2nOui6MbEBSKTM76fero=
+
+Name: com/lambda/Debugger/ObjectPane.java
+SHA1-Digest: lPDJdvoglCmZ0bjOTpR1Jrl5ZwY=
+
+Name: org/apache/bcel/verifier/VerifierFactoryListModel.class
+SHA1-Digest: Kk6JQZvlGIrCcYoZPztgcHvmSqg=
+
+Name: com/lambda/Debugger/Debugger.class
+SHA1-Digest: nVDsSxVEYvuUVpNqH/CLKoIOR4k=
+
+Name: org/apache/bcel/verifier/VerificationResult.class
+SHA1-Digest: 0OA0sRW6hu7vit3NM3loMAwoL9g=
+
+Name: edu/insa/LSD/QueryFGet.java
+SHA1-Digest: CHWl/YQLSdmdpVYh5yFmwzm0AV4=
+
+Name: org/apache/bcel/generic/FCONST.class
+SHA1-Digest: wK01QaKBEh23pxoD1wJtQjj2NVk=
+
+Name: org/apache/bcel/generic/InstructionComparator.class
+SHA1-Digest: otSOQHVDiy6xXk7ODZqYjzmfED4=
+
+Name: org/apache/bcel/generic/EmptyVisitor.class
+SHA1-Digest: ZNwhpIp8+YLH9qyrqrMIBDUSPqA=
+
+Name: org/apache/bcel/generic/ArrayType.class
+SHA1-Digest: UnTzEUcb8jYXrSxpWAwR7i+1NRQ=
+
+Name: org/apache/bcel/verifier/exc/VerifierConstraintViolatedException
+ .class
+SHA1-Digest: r7w01Qh/DU/OwbFQgYPfluKx/uU=
+
+Name: com/lambda/Debugger/TraceLine2.class
+SHA1-Digest: G+F1NrQDLka/c2SzRbj/MSGEoVM=
+
+Name: org/apache/bcel/generic/IINC.class
+SHA1-Digest: VjNKM0q2a7WxUq7BpYs76irQxZ8=
+
+Name: com/lambda/Debugger/ThreadActionListener.java
+SHA1-Digest: mrb88HL7yKjNXhpBU9qkjR0fvP4=
+
+Name: com/lambda/Debugger/TraceLine3.java
+SHA1-Digest: 8s826p3mTNtHsHlNctOtJQ2y0Bg=
+
+Name: org/apache/bcel/generic/IALOAD.class
+SHA1-Digest: I7e0NFiCVg3FjB1LUQf5kzCmPfw=
+
+Name: edu/insa/LSD/Test.class
+SHA1-Digest: 3hR7I5cRgJQ9bXxQqBB1KzYUOFg=
+
+Name: com/lambda/Debugger/HashMapEq.class
+SHA1-Digest: neS9TsG0UmdKb1v3TB8oifFAJVw=
+
+Name: com/lambda/Debugger/Locals1.class
+SHA1-Digest: d88rcGsNmSiOHPt3kA1LuTPNNqY=
+
+Name: org/apache/bcel/classfile/ConstantFieldref.class
+SHA1-Digest: Bo/qS5ToigkifZKRooywc6oQ+Lk=
+
+Name: com/lambda/Debugger/SleeperSet.class
+SHA1-Digest: qI/rdcp8ybgxQpdvgAmcEcj1pDM=
+
+Name: docs/Blocked.jpg
+SHA1-Digest: LEKhP5Yy2Mqbv5JDq0jrTCkxg3E=
+
+Name: com/lambda/Experiment/Rewrite.java
+SHA1-Digest: fSyR/y6KPpjcoaG0geE527lVxTI=
+
+Name: edu/insa/LSD/DataParser.java
+SHA1-Digest: NMTVhNMSi7iwTk0JJLM0Rdltl/c=
+
+Name: edu/insa/LSD/ExitEvent.class
+SHA1-Digest: KtzFQWbRC3VZcOQPT41w6BPu+KI=
+
+Name: com/lambda/Debugger/Launch$2.class
+SHA1-Digest: AOGyMsht6vauBERDVvpBBJFa/XM=
+
+Name: org/apache/bcel/generic/PUTSTATIC.class
+SHA1-Digest: /IXHZMza8WSMopYArfdn7x/mZak=
+
+Name: org/apache/bcel/generic/MethodGen.class
+SHA1-Digest: hlbTFTZNhOCBY9ZoyDzsKczkmHY=
+
+Name: org/apache/bcel/generic/FDIV.class
+SHA1-Digest: Ph/nj4YJ8bvWofPpsVMuF2xFb8E=
+
+Name: org/apache/bcel/generic/FNEG.class
+SHA1-Digest: AuCttlSan3G5HTLXocUwRWdIcso=
+
+Name: com/lambda/Debugger/TraceLine4.class
+SHA1-Digest: i49YV28C5SlZbThbhPcBCJkW+TY=
+
+Name: com/lambda/Debugger/ShadowPrintStream.class
+SHA1-Digest: oGASiQ/DozgqIuYhsc7LxM7eilg=
+
+Name: org/apache/bcel/generic/Type$3.class
+SHA1-Digest: 21sZdsX8kFpdYYDRICcmZTh9fz0=
+
+Name: org/apache/bcel/generic/LNEG.class
+SHA1-Digest: Hv7x5QV6I3MzbJQvRk39cPy1EqM=
+
+Name: org/apache/bcel/verifier/structurals/ExceptionHandlers.class
+SHA1-Digest: 9iRbYWJeLEvTnF0H03Sk9wclcRc=
+
+Name: edu/insa/LSD/FGetParser.class
+SHA1-Digest: k4FgYv8thwjplYoaKVRHcV33sXQ=
+
+Name: com/lambda/Debugger/TraceListener.class
+SHA1-Digest: g/vE1dDo19hO4lKaZYhPbb7+L+c=
+
+Name: edu/insa/LSD/StateImpl.class
+SHA1-Digest: z0QEGEZADGUNhIphbguK4CFhTCM=
+
+Name: org/apache/bcel/verifier/structurals/Subroutines$SubroutineImpl.
+ class
+SHA1-Digest: AhQ4omIqvb8Q8PsHQbMykpJerWs=
+
+Name: com/lambda/Debugger/MyCollections$SingletonSet$1.class
+SHA1-Digest: 3m/zhIi5pqeCav6eEPEz6R/sDp0=
+
+Name: com/lambda/Debugger/MiniBuffer$8.class
+SHA1-Digest: C1wGNU85F3JDzCHUydtKMBRAD4U=
+
+Name: com/lambda/tests/TestMyVector.class
+SHA1-Digest: go5qtps5OZHiiAxI98Yjnm4i5Pw=
+
+Name: edu/insa/LSD/StackFrameImpl.class
+SHA1-Digest: wRV87e+37McWvdYTH54WrVwKSJM=
+
+Name: com/lambda/Debugger/Debugger$1.class
+SHA1-Digest: 9gcCmpgPuSE/o+AK6ibdTg1V8LU=
+
+Name: org/apache/bcel/classfile/Utility$1.class
+SHA1-Digest: frTwTMOdqNdjr/KWlBpJmuzuZmM=
+
+Name: org/apache/bcel/classfile/LineNumber.class
+SHA1-Digest: PXFfwD1eNz+EM3TzU+uYVsaujIQ=
+
+Name: com/lambda/Debugger/Demo.class
+SHA1-Digest: 3HLBLBKpSSSBOizBPgDV/gtV4wQ=
+
+Name: .settings/org.eclipse.jdt.core.prefs
+SHA1-Digest: 6VS1yeqSL4qYxQERn9dhKnjMs70=
+
+Name: com/lambda/Debugger/ShadowShort.class
+SHA1-Digest: 4uRzpfgF2NPq6Cz+fqhIPWyIgYc=
+
+Name: org/apache/bcel/generic/GOTO.class
+SHA1-Digest: lPcoBhmPU4ih9kzhHJFV0Cr2UT0=
+
+Name: com/lambda/tests/PrivateInnerClassTest.class
+SHA1-Digest: x/t6okdNS74sk4jSY11xaBJM07s=
+
+Name: org/apache/bcel/util/MethodHTML.class
+SHA1-Digest: Af1F+3V2JqvIChHDXDtgNjK5Ob0=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableCollection$1.class
+SHA1-Digest: fnMopDUjq6iAdzuI46IIkdUKdDA=
+
+Name: org/apache/bcel/util/ClassPath$1.class
+SHA1-Digest: rTRpB8+MbqzldQ2NqKgngE9Mht0=
+
+Name: org/apache/bcel/generic/CPInstruction.class
+SHA1-Digest: 3w1qk9Gp0imd81bw/amEpyf5bug=
+
+Name: org/apache/bcel/generic/StackConsumer.class
+SHA1-Digest: 8ZFJOSxEnZXYo59WEJR5mOI+BHk=
+
+Name: com/lambda/Debugger/MySystem.class
+SHA1-Digest: w4MJRsiHMjgmkbtlS/A1OxVgmDE=
+
+Name: com/lambda/Debugger/StackListElement.java
+SHA1-Digest: /rkMJHyvCnNPkDVWURqLj1sjGCs=
+
+Name: org/apache/bcel/generic/DNEG.class
+SHA1-Digest: PRwMofRTI7Hy/AsCkhVx+N4aFcY=
+
+Name: com/lambda/tests/Outer$Inner.class
+SHA1-Digest: 5IgTguLGWr3rxVVQi/OYs/ikogA=
+
+Name: com/lambda/Debugger/ShadowInt.class
+SHA1-Digest: 1fx45LfkRHvQX9xa7lD8gbS9x04=
+
+Name: com/lambda/Experiment/.debuggerDefaults
+SHA1-Digest: V0hbIFQmQYas4Ysf1MYhuXgSkBo=
+
+Name: com/lambda/Debugger/LockerPair.class
+SHA1-Digest: qQ8kOJ3Nx0a7+Sr6fqpyT43KP58=
+
+Name: com/lambda/Debugger/TraceLine.class
+SHA1-Digest: Rb+V7FE2YS4Nfra0lJNO+Kz+fnY=
+
+Name: org/apache/bcel/generic/INVOKEINTERFACE.class
+SHA1-Digest: gol1aSE4A6P4d8Qae6U58/mc95o=
+
+Name: org/apache/bcel/generic/FCMPG.class
+SHA1-Digest: QMXj+BYg6+x8OBjJsh2gUwxJBKo=
+
+Name: com/lambda/Debugger/MyCollections$EmptyList.class
+SHA1-Digest: 2o596b9hQo1bo3/xBjwl7XHgLbo=
+
+Name: edu/insa/LSD/RecordedState.java
+SHA1-Digest: 8o11xKVFVltiFIeVf4+bT+3MlgU=
+
+Name: org/apache/bcel/generic/IndexedInstruction.class
+SHA1-Digest: PFid/YuGc91uojHLFLrme6ulqao=
+
+Name: scripts/buildRelease
+SHA1-Digest: Pwwkc3IW70vgLKOMWJhZzPX+XcM=
+
+Name: com/lambda/Debugger/ShadowLong.java
+SHA1-Digest: zk+8gE+J81HUDYE6G4+JJg5qQYk=
+
+Name: org/apache/bcel/verifier/exc/StaticCodeInstructionConstraintExce
+ ption.class
+SHA1-Digest: ppwlKNh/RR44DMoiuUmGjemwR3k=
+
+Name: com/lambda/tests/SystemOutErrTest.class
+SHA1-Digest: gBRq4PTZBAkRjTMUp976oYyAkb8=
+
+Name: com/lambda/Debugger/Locals4.java
+SHA1-Digest: w5loLRsYZmc7zKwYTCm5MSIv3A0=
+
+Name: org/apache/bcel/generic/LocalVariableGen.class
+SHA1-Digest: iNVrutgnfNX+BjXzwPP0LDR7vFo=
+
+Name: org/apache/bcel/generic/BasicType.class
+SHA1-Digest: ASCALKWCqDdp+niGxb1XvpfH6FM=
+
+Name: edu/insa/LSD/EventImpl.java
+SHA1-Digest: VpKl2WaWSieP3Z7f7mChdwXBgmw=
+
+Name: edu/insa/LSD/EnterEvent.class
+SHA1-Digest: JGbgUG5+2fMAPK2wG3w+dRbyTp4=
+
+Name: org/apache/bcel/generic/IADD.class
+SHA1-Digest: yzdO/f/xWmz4tbRdVOm6lj2/N0E=
+
+Name: images/up16.gif
+SHA1-Digest: aQ+ZDTKTfQlwm5e30yHSW3Mbrqs=
+
+Name: org/apache/bcel/util/AttributeHTML.class
+SHA1-Digest: OW5NchKa9A1p4EkCFV8hXr+ITp8=
+
+Name: edu/insa/LSD/DataParser.class
+SHA1-Digest: qf1L+jcoxw5gtcH7nyIAUB/B/j8=
+
+Name: org/apache/bcel/generic/IMUL.class
+SHA1-Digest: fXy2sqQOCb86IjFBTmK8E2ZufaU=
+
+Name: org/apache/bcel/generic/IF_ICMPGT.class
+SHA1-Digest: G5Ku6+EWxtSCWz5ARIddRppMSNg=
+
+Name: com/lambda/Debugger/TraceListener.java
+SHA1-Digest: HDZxtfOWcSvyZQi3mTeKpM0tKew=
+
+Name: com/lambda/Debugger/Locals4.class
+SHA1-Digest: 4zk6OA+seN+6MdwdLZv8a3FUT1s=
+
+Name: com/lambda/Debugger/QuickSortNonThreaded.java
+SHA1-Digest: ah4LRDMxYu3tnXUeGt1n6jJBu1w=
+
+Name: com/lambda/Debugger/SpecialFormatters.class
+SHA1-Digest: aKyvUVIomHaQ7akuItw9jEchFSY=
+
+Name: org/apache/bcel/generic/LOOKUPSWITCH.class
+SHA1-Digest: mFHkRTla7/WdnBBWYt+FrOkEmFo=
+
+Name: com/lambda/Debugger/DebugifyingClassLoader.java
+SHA1-Digest: vjmpkIoTzd9vvs6Uv/hDPU94YSg=
+
+Name: com/lambda/tests/Thing.class
+SHA1-Digest: WbxhedC+R+rRD+UAR3GUIDGsxQM=
+
+Name: com/lambda/Debugger/Dashes.java
+SHA1-Digest: bgNG0YAHUAVyNXReKy+hJwpZuPA=
+
+Name: org/apache/bcel/generic/IMPDEP2.class
+SHA1-Digest: CmYJIsQsEyKNnTwQjpfi4UWcv2o=
+
+Name: scripts/instrumentCommands.sed
+SHA1-Digest: RNTEMX1deDOEjYTBloIZHsGOtnk=
+
+Name: org/apache/bcel/generic/IFNULL.class
+SHA1-Digest: L+LVXBWVaUeR3B2j8r5gMIe2EJk=
+
+Name: org/apache/bcel/Constants.class
+SHA1-Digest: 29PVxrkOC6r8wFLqfespl8lkyTk=
+
+Name: edu/insa/LSD/Value.java
+SHA1-Digest: pvBLYasmE27WVVR+9vWwKMs/8Ps=
+
+Name: com/lambda/Debugger/Misc.java
+SHA1-Digest: 39YukqjhR02RAhOR8o37zMJzmik=
+
+Name: com/lambda/Debugger/ObjectActionListener.class
+SHA1-Digest: yye9GxG8kXGZq6+Ixda4elnDffY=
+
+Name: com/lambda/Debugger/StackMenuActionListener.class
+SHA1-Digest: LihimwhRgnkQSkb+HFKVQgEEzJg=
+
+Name: org/apache/bcel/classfile/ConstantUtf8.class
+SHA1-Digest: 3x9Qf5Mf5+G21UFMdu68c5gKhYk=
+
+Name: com/lambda/tests/SystemOutErrTest.java
+SHA1-Digest: 8hr9d2ZmV/xmBiVCQlZfaCxryRc=
+
+Name: edu/insa/LSD/QueryFGet.class
+SHA1-Digest: ayVKl4ZjJV208f/1DZLg/4tRgCs=
+
+Name: edu/insa/LSD/Event.java
+SHA1-Digest: 5gV6titDvQqWpePlJY+x6ycE2gg=
+
+Name: org/apache/bcel/generic/MONITOREXIT.class
+SHA1-Digest: cnQT8IBrljiMDg3I5ol0QqI7i4M=
+
+Name: com/lambda/Debugger/TimeSliderListener.class
+SHA1-Digest: UB4CFtvnC5P8z5MPCSlTYgbsUeI=
+
+Name: com/lambda/tests/GenericsTest.class
+SHA1-Digest: wohW/+iPblCwY8TFkpiPqnWt+wI=
+
+Name: com/lambda/Debugger/ShadowDouble.java
+SHA1-Digest: vtpaMUMTdWZr1oN6husLFGdNqm0=
+
+Name: org/apache/bcel/generic/UnconditionalBranch.class
+SHA1-Digest: B6AcF9v5ng2gacsKrP0XByAENjM=
+
+Name: com/lambda/Debugger/TraceLine8.java
+SHA1-Digest: +8KL4QS7oTUrOVGEaleZlPjYzIU=
+
+Name: org/apache/bcel/verifier/exc/ClassConstraintException.class
+SHA1-Digest: A8bfNZMycmv9qqna4xSlKTSDDfQ=
+
+Name: org/apache/bcel/generic/IXOR.class
+SHA1-Digest: 8HcghCU5mCpPMKCj/YY0jPZgTfI=
+
+Name: org/apache/bcel/generic/ClassGen.class
+SHA1-Digest: VH5SLZrLNd8hUKs/Q+3aXE8lKIg=
+
+Name: com/lambda/Debugger/MyAbstractList.java
+SHA1-Digest: gVlBN1ybAVzRQwVPrEU7NzWOSlo=
+
+Name: com/lambda/Debugger/Ring.java
+SHA1-Digest: M9y0R5+zIH5rM937wxZKol5jWas=
+
+Name: com/lambda/Debugger/MyArrayList.java
+SHA1-Digest: 1g8GNyNul9Bw43CDmtkaYAJIEF8=
+
+Name: com/lambda/Debugger/ShadowChar.java
+SHA1-Digest: EWRMXLIWDKbMH8VcF5PKiQbdNPA=
+
+Name: images/loop16.gif
+SHA1-Digest: 3u6CEBzYW3v8/VNIRttvbWbeI1U=
+
+Name: org/apache/bcel/generic/BREAKPOINT.class
+SHA1-Digest: BivMu3bqHI23MjMpYs2Ly5XYX3o=
+
+Name: com/lambda/Debugger/ObjectsMenuActionListener.class
+SHA1-Digest: mFfzAUYiA6JcIcN1SuqqcoQx3JY=
+
+Name: com/lambda/Debugger/Subtype.java
+SHA1-Digest: B6IdbJaiKpDK/DlV6W8DbZNJHwA=
+
+Name: com/lambda/Debugger/TestLoadClass.class
+SHA1-Digest: 2qA60RlYg57DE/mEijnWjK2+uHo=
+
+Name: com/lambda/Debugger/MyCollections$UnmodifiableMap$UnmodifiableEn
+ trySet$UnmodifiableEntry.class
+SHA1-Digest: nLb/35fC1vdQ+EOpegUTybsrFGQ=
+
+Name: org/apache/bcel/generic/L2F.class
+SHA1-Digest: MSgY6lM5iWLmiAhZRf6WuhCYz+M=
+
+Name: org/apache/bcel/generic/F2D.class
+SHA1-Digest: l0VLmdqOFjNaSJveL3blrhz6aoE=
+
+Name: edu/insa/LSD/ConstantValue.java
+SHA1-Digest: YQo7PlOqvGs3xbVquHDRfmcGnyQ=
+
+Name: com/lambda/Debugger/ThrowLine.java
+SHA1-Digest: rzZcGQXoaIyFWdvnHHTtsrlGr3o=
+
