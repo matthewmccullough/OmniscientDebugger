@@ -18,11 +18,11 @@ I have not tested it on 1.6. If you have, please let me know.
 
 If you normally run your program on UNIX like this:
 
-% java bomberman.Bomberman
+% java com.lambda.tests.TestMyArrayList
 
 You can run the debugger like this:
 
-% java -cp ~/Debugger/debugger.jar:$CLASSPATH com.lambda.Debugger.Debugger bomberman.Bomberman
+% java -cp ~/Debugger/debugger.jar:$CLASSPATH com.lambda.Debugger.Debugger com.lambda.tests.TestMyArrayList
 
 There are alias files and .BAT files that allow you to type this:
 
